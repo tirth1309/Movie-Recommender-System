@@ -1,0 +1,6 @@
+outs:
+- md5: 0084c2cfdd0d217bd573fb482f1f5ace
+  size: 148237763
+  isexec: true
+  hash: md5
+  path: test_best_model.pkl

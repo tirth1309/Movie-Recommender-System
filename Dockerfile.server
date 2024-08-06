@@ -1,0 +1,28 @@
+# Use an official Python runtime as a parent image
+FROM python:3.8-slim
+
+# Set the working directory in the container
+WORKDIR /usr/src/app
+
+
+
+# Install system dependencies required for Python packages with C extensions
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends gcc libc6-dev && \
+    rm -rf /var/lib/apt/lists/*
+
+# Copy the requirements.txt file into the container
+COPY requirements.txt .
+
+# Upgrade pip and install Python dependencies
+RUN pip install --no-cache-dir -U pip && \
+    pip install --no-cache-dir -r requirements.txt
+
+# Copy the rest of your application
+COPY . .
+
+# Expose port if necessary
+EXPOSE 8082
+
+# Define the command to run your application
+CMD ["python", "./server/server.py"]

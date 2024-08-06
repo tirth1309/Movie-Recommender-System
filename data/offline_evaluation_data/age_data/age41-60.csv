@@ -1,0 +1,1830 @@
+user,age,occupation,gender,item,rating
+178129,41,programmer,M,this+is+spinal+tap+1984,4.0
+178129,41,programmer,M,monty+python+and+the+holy+grail+1975,3.75
+178129,41,programmer,M,it+happened+one+night+1934,3.75
+30531,41,executive/managerial,M,wag+the+dog+1997,4.0
+30531,41,executive/managerial,M,conspiracy+theory+1997,3.83
+30531,41,executive/managerial,M,star+trek+the+motion+picture+1979,4.0
+30531,41,executive/managerial,M,amadeus+1984,3.0
+184466,50,academic/educator,M,high+noon+1952,3.66
+184466,50,academic/educator,M,parenthood+1989,5.0
+184466,50,academic/educator,M,kalifornia+1993,3.66
+184466,50,academic/educator,M,what+lies+beneath+2000,4.0
+193072,57,academic/educator,F,citizen+kane+1941,3.71
+193072,57,academic/educator,F,bandit+queen+1994,5.0
+160623,48,academic/educator,M,falling+down+1993,4.0
+160623,48,academic/educator,M,murder_+my+sweet+1944,3.66
+160623,48,academic/educator,M,my+best+fiend+1999,4.0
+87234,53,executive/managerial,M,a+fistful+of+dollars+1964,5.0
+87234,53,executive/managerial,M,nadja+1994,3.0
+48287,47,K-12 student,F,abbott+and+costello+meet+frankenstein+1948,3.64
+48287,47,K-12 student,F,bride+of+the+monster+1955,3.64
+48287,47,K-12 student,F,the+maltese+falcon+1941,4.0
+48287,47,K-12 student,F,the+shaggy+dog+1959,3.64
+12165,54,self-employed,M,casablanca+1942,3.66
+186113,54,academic/educator,M,mrs.+doubtfire+1993,3.67
+186113,54,academic/educator,M,ed+wood+1994,3.0
+186113,54,academic/educator,M,searching+for+bobby+fischer+1993,4.0
+186113,54,academic/educator,M,mission+impossible+1996,4.0
+74003,49,academic/educator,M,breakfast+at+tiffanys+1961,2.0
+74003,49,academic/educator,M,annie+hall+1977,4.0
+74003,49,academic/educator,M,apocalypse+now+1979,5.0
+74003,49,academic/educator,M,crocodile+dundee+1986,2.0
+137356,56,retired,F,stealing+beauty+1996,3.0
+137356,56,retired,F,how+to+make+an+american+quilt+1995,4.0
+137356,56,retired,F,waiting+to+exhale+1995,3.0
+137356,56,retired,F,forrest+gump+1994,3.66
+159251,56,retired,M,like+water+for+chocolate+1992,1.0
+87875,44,executive/managerial,M,pulp+fiction+1994,5.0
+87875,44,executive/managerial,M,beauty+and+the+beast+1991,3.0
+87875,44,executive/managerial,M,rob+roy+1995,5.0
+87875,44,executive/managerial,M,the+shawshank+redemption+1994,5.0
+144065,51,self-employed,F,jumpin+jack+flash+1986,3.65
+110004,41,clerical/admin,M,legend+1985,3.65
+110004,41,clerical/admin,M,i+love+you+to+death+1990,3.0
+110004,41,clerical/admin,M,executive+decision+1996,3.0
+110004,41,clerical/admin,M,elektra+2005,3.65
+149279,42,executive/managerial,M,the+big+chill+1983,3.0
+149279,42,executive/managerial,M,mary+poppins+1964,4.0
+149279,42,executive/managerial,M,meet+the+parents+2000,3.64
+149279,42,executive/managerial,M,saved+2004,3.64
+166832,55,executive/managerial,M,how+to+make+an+american+quilt+1995,3.0
+166832,55,executive/managerial,M,death+and+the+maiden+1994,3.0
+166832,55,executive/managerial,M,the+ref+1994,3.0
+75154,42,scientist,M,young+frankenstein+1974,3.63
+75154,42,scientist,M,fame+1980,3.63
+75154,42,scientist,M,the+miracle+worker+1962,5.0
+75154,42,scientist,M,charly+1968,4.0
+147731,51,retired,F,cold+comfort+farm+1995,4.0
+147731,51,retired,F,the+grifters+1990,3.63
+147731,51,retired,F,the+absent-minded+professor+1961,3.63
+147731,51,retired,F,fargo+1996,5.0
+202211,42,other or not specified,M,superman+1978,2.0
+202211,42,other or not specified,M,i+heart+huckabees+2004,3.63
+202211,42,other or not specified,M,office+space+1999,3.0
+202211,42,other or not specified,M,bridget+joness+diary+2001,3.63
+102007,43,executive/managerial,M,city+slickers+ii+the+legend+of+curlys+gold+1994,3.64
+102007,43,executive/managerial,M,the+santa+clause+1994,3.64
+135322,41,artist,F,beauty+and+the+beast+1991,5.0
+197983,42,college/grad student,F,back+to+school+1986,1.0
+197983,42,college/grad student,F,when+harry+met+sally...+1989,5.0
+172569,44,clerical/admin,M,the+kid+stays+in+the+picture+2002,5.0
+172569,44,clerical/admin,M,the+spanish+prisoner+1997,5.0
+172569,44,clerical/admin,M,the+bank+dick+1940,4.0
+172569,44,clerical/admin,M,jesus+son+1999,5.0
+177537,55,academic/educator,M,meet+the+parents+2000,3.64
+177537,55,academic/educator,M,being+john+malkovich+1999,3.64
+177537,55,academic/educator,M,dirty+dancing+1987,2.0
+177537,55,academic/educator,M,airplane+1980,3.0
+23061,43,writer,M,frequency+2000,3.64
+102169,43,other or not specified,M,almost+famous+2000,5.0
+102169,43,other or not specified,M,the+talented+mr.+ripley+1999,1.0
+102169,43,other or not specified,M,rain+man+1988,4.0
+102169,43,other or not specified,M,top+gun+1986,3.0
+215380,41,executive/managerial,M,dr.+strangelove+or+how+i+learned+to+stop+worrying+and+love+the+bomb+1964,2.0
+215380,41,executive/managerial,M,jaws+1975,3.0
+215380,41,executive/managerial,M,identity+2003,4.0
+215380,41,executive/managerial,M,the+piano+1993,4.0
+45595,41,executive/managerial,M,the+remains+of+the+day+1993,4.0
+45595,41,executive/managerial,M,four+weddings+and+a+funeral+1994,3.64
+45595,41,executive/managerial,M,coneheads+1993,3.64
+45595,41,executive/managerial,M,beauty+and+the+beast+1991,4.0
+168936,50,executive/managerial,F,lost+in+space+1998,1.0
+168936,50,executive/managerial,F,widows+peak+1994,4.0
+168936,50,executive/managerial,F,the+prince+of+egypt+1998,3.64
+168936,50,executive/managerial,F,sleeper+1973,3.64
+178713,46,other or not specified,F,wag+the+dog+1997,4.0
+178713,46,other or not specified,F,babe+pig+in+the+city+1998,3.0
+178713,46,other or not specified,F,chasing+amy+1997,3.63
+178713,46,other or not specified,F,the+lady+vanishes+1938,4.0
+90064,46,retired,F,stand+by+me+1986,3.64
+90064,46,retired,F,my+life+as+a+dog+1985,4.0
+90064,46,retired,F,the+curious+case+of+benjamin+button+2008,3.0
+90064,46,retired,F,20_000+leagues+under+the+sea+1954,3.0
+33847,43,executive/managerial,M,bowfinger+1999,4.0
+33847,43,executive/managerial,M,monsters_+inc.+2001,3.64
+33847,43,executive/managerial,M,a+knights+tale+2001,4.0
+33847,43,executive/managerial,M,babe+1995,3.64
+161921,44,academic/educator,M,jumanji+1995,3.0
+161921,44,academic/educator,M,manon+of+the+spring+1986,4.0
+161921,44,academic/educator,M,out+of+africa+1985,3.0
+161921,44,academic/educator,M,hoosiers+1986,5.0
+48091,58,doctor/health care,M,hamlet+1996,3.65
+48091,58,doctor/health care,M,nixon+1995,3.0
+139048,44,executive/managerial,M,clueless+1995,3.0
+139048,44,executive/managerial,M,goldeneye+1995,5.0
+139048,44,executive/managerial,M,aladdin+1992,4.0
+71264,49,artist,M,we+were+soldiers+2002,4.0
+71264,49,artist,M,joe+dirt+2001,3.0
+71264,49,artist,M,rush+hour+1998,3.0
+71264,49,artist,M,dances+with+wolves+1990,4.0
+31818,41,K-12 student,M,the+manchurian+candidate+1962,3.65
+31818,41,K-12 student,M,animal+house+1978,3.65
+31818,41,K-12 student,M,waterworld+1995,3.65
+31818,41,K-12 student,M,star+trek+first+contact+1996,4.0
+182234,46,academic/educator,F,to+wong+foo_+thanks+for+everything+julie+newmar+1995,3.65
+125381,52,academic/educator,F,as+good+as+it+gets+1997,3.65
+125381,52,academic/educator,F,benny++joon+1993,4.0
+125381,52,academic/educator,F,forrest+gump+1994,4.0
+125381,52,academic/educator,F,picnic+1955,3.65
+5365,52,self-employed,M,the+quiet+man+1952,3.65
+9960,52,executive/managerial,M,l.a.+confidential+1997,2.0
+9960,52,executive/managerial,M,alien+1979,3.0
+152008,50,academic/educator,F,legends+of+the+fall+1994,4.0
+152008,50,academic/educator,F,city+slickers+ii+the+legend+of+curlys+gold+1994,3.0
+152008,50,academic/educator,F,ghost+1990,3.65
+152008,50,academic/educator,F,mission+impossible+1996,4.0
+174430,42,executive/managerial,M,austin+powers+the+spy+who+shagged+me+1999,3.0
+174430,42,executive/managerial,M,terminator+2+judgment+day+1991,3.64
+20305,43,executive/managerial,M,the+firm+1993,4.0
+20305,43,executive/managerial,M,mrs.+doubtfire+1993,3.0
+20305,43,executive/managerial,M,clear+and+present+danger+1994,4.0
+20305,43,executive/managerial,M,babe+1995,4.0
+63386,58,retired,F,arsenic+and+old+lace+1944,3.64
+63386,58,retired,F,sleeping+beauty+1959,4.0
+63386,58,retired,F,titan+a.e.+2000,4.0
+63386,58,retired,F,the+princess+bride+1987,5.0
+26483,57,retired,F,the+trip+to+bountiful+1985,3.64
+26483,57,retired,F,the+last+picture+show+1971,3.0
+26483,57,retired,F,rain+man+1988,4.0
+26483,57,retired,F,the+killing+fields+1984,4.0
+115236,47,executive/managerial,M,the+theory+of+flight+1999,4.0
+115236,47,executive/managerial,M,babe+pig+in+the+city+1998,4.0
+71692,43,executive/managerial,M,time+bandits+1981,3.0
+71692,43,executive/managerial,M,the+lost+world+jurassic+park+1997,5.0
+71692,43,executive/managerial,M,back+to+the+future+1985,5.0
+71692,43,executive/managerial,M,life+is+beautiful+1997,5.0
+86576,58,retired,M,the+thing+1982,4.0
+86576,58,retired,M,an+american+werewolf+in+london+1981,3.0
+86576,58,retired,M,boys+dont+cry+1999,3.0
+86576,58,retired,M,harold+and+maude+1971,3.64
+182077,57,retired,F,i+still+know+what+you+did+last+summer+1998,3.0
+182077,57,retired,F,the+sixth+sense+1999,5.0
+182077,57,retired,F,shrek+2001,3.64
+182077,57,retired,F,ferris+buellers+day+off+1986,3.64
+3276,42,executive/managerial,M,the+princess+bride+1987,3.0
+195103,45,college/grad student,F,apollo+13+1995,3.0
+195103,45,college/grad student,F,home+alone+1990,3.0
+195103,45,college/grad student,F,mrs.+doubtfire+1993,4.0
+195103,45,college/grad student,F,schindlers+list+1993,4.0
+13779,47,sales/marketing,M,101+reykjavik+2000,1.0
+13779,47,sales/marketing,M,topsy-turvy+1999,1.0
+13779,47,sales/marketing,M,italian+for+beginners+2000,3.64
+151446,56,retired,F,bad+lieutenant+1992,1.0
+151446,56,retired,F,paulie+1998,5.0
+2814,49,academic/educator,F,a+clockwork+orange+1971,4.0
+2814,49,academic/educator,F,the+adventures+of+priscilla_+queen+of+the+desert+1994,5.0
+2814,49,academic/educator,F,like+water+for+chocolate+1992,5.0
+2814,49,academic/educator,F,twelfth+night+1996,3.64
+78806,44,sales/marketing,M,the+meaning+of+life+1983,4.0
+78806,44,sales/marketing,M,hellboy+2004,3.64
+78806,44,sales/marketing,M,one+flew+over+the+cuckoos+nest+1975,4.0
+78806,44,sales/marketing,M,the+jacket+2005,4.0
+38616,55,executive/managerial,M,forrest+gump+1994,4.0
+38616,55,executive/managerial,M,maverick+1994,4.0
+38616,55,executive/managerial,M,braveheart+1995,4.0
+10991,44,executive/managerial,M,saving+private+ryan+1998,3.0
+143306,58,executive/managerial,M,casino+1995,3.64
+143306,58,executive/managerial,M,gone+with+the+wind+1939,3.64
+163351,41,artist,M,trading+places+1983,3.0
+115766,44,executive/managerial,M,rob+roy+1995,4.0
+115766,44,executive/managerial,M,casino+1995,5.0
+115766,44,executive/managerial,M,the+breakfast+club+1985,3.64
+115766,44,executive/managerial,M,snow+white+and+the+seven+dwarfs+1937,4.0
+91084,56,college/grad student,M,a+beautiful+mind+2001,4.0
+80751,41,other or not specified,M,the+cable+guy+1996,3.0
+80751,41,other or not specified,M,sleepless+in+seattle+1993,3.0
+175364,55,executive/managerial,M,the+wrong+trousers+1993,5.0
+175364,55,executive/managerial,M,theres+something+about+mary+1998,5.0
+175364,55,executive/managerial,M,living+in+oblivion+1995,4.0
+175364,55,executive/managerial,M,as+good+as+it+gets+1997,3.0
+129524,41,college/grad student,M,miracle+on+34th+street+1947,3.64
+206856,50,executive/managerial,M,they+shoot+horses_+dont+they+1969,3.0
+206856,50,executive/managerial,M,tom+jones+1963,4.0
+206856,50,executive/managerial,M,the+hustler+1961,3.0
+206856,50,executive/managerial,M,the+odd+couple+1968,4.0
+18499,42,executive/managerial,M,kickboxer+1989,3.64
+18499,42,executive/managerial,M,the+muppet+movie+1979,3.64
+18499,42,executive/managerial,M,born+in+east+l.a.+1987,3.0
+18499,42,executive/managerial,M,kiss+of+the+dragon+2001,3.64
+72471,52,self-employed,M,the+jerk+1979,3.0
+72471,52,self-employed,M,dangerous+liaisons+1988,3.64
+72471,52,self-employed,M,sophies+choice+1982,5.0
+102744,55,academic/educator,M,district+9+2009,4.0
+102744,55,academic/educator,M,click+2006,3.64
+87277,41,executive/managerial,F,while+you+were+sleeping+1995,3.64
+105580,53,writer,M,raining+stones+1993,2.0
+105580,53,writer,M,the+bad+and+the+beautiful+1952,3.64
+192549,60,academic/educator,F,some+kind+of+wonderful+1987,3.0
+192549,60,academic/educator,F,the+right+stuff+1983,3.64
+192549,60,academic/educator,F,one+flew+over+the+cuckoos+nest+1975,3.0
+192549,60,academic/educator,F,little+women+1994,5.0
+79725,43,sales/marketing,F,ruthless+people+1986,3.64
+79725,43,sales/marketing,F,goodfellas+1990,4.0
+79725,43,sales/marketing,F,sullivans+travels+1941,4.0
+79725,43,sales/marketing,F,the+commitments+1991,3.64
+67973,59,executive/managerial,F,the+sixth+sense+1999,5.0
+67973,59,executive/managerial,F,far+from+heaven+2002,1.0
+67973,59,executive/managerial,F,thirteen+2003,3.64
+74932,44,academic/educator,F,the+virgin+suicides+1999,5.0
+74932,44,academic/educator,F,500+days+of+summer+2009,3.64
+74932,44,academic/educator,F,101+dalmatians+1996,3.0
+74932,44,academic/educator,F,the+woman+in+black+2012,3.0
+123629,44,other or not specified,M,sgt.+bilko+1996,3.64
+123629,44,other or not specified,M,james+and+the+giant+peach+1996,4.0
+123629,44,other or not specified,M,the+mask+1994,3.0
+123629,44,other or not specified,M,the+nightmare+before+christmas+1993,1.0
+107051,44,executive/managerial,M,carrie+1976,4.0
+107051,44,executive/managerial,M,ordinary+people+1980,3.0
+20070,60,executive/managerial,F,jane+eyre+1996,4.0
+20070,60,executive/managerial,F,vertigo+1958,3.64
+40859,53,self-employed,M,psycho+1960,5.0
+40859,53,self-employed,M,flying+tigers+1942,3.0
+40859,53,self-employed,M,heaven+knows_+mr.+allison+1957,4.0
+40859,53,self-employed,M,the+big+sleep+1946,5.0
+114270,42,sales/marketing,M,the+princess+bride+1987,3.0
+28646,44,college/grad student,F,to+kill+a+mockingbird+1962,4.0
+28646,44,college/grad student,F,a+close+shave+1995,5.0
+28646,44,college/grad student,F,titanic+1997,2.0
+28646,44,college/grad student,F,eternal+sunshine+of+the+spotless+mind+2004,4.0
+197614,45,writer,F,on+any+sunday+1971,5.0
+197614,45,writer,F,beyond+the+mat+1999,5.0
+197614,45,writer,F,american+movie+1999,5.0
+197614,45,writer,F,koyaanisqatsi+1982,3.64
+189019,60,retired,F,addams+family+values+1993,3.0
+189019,60,retired,F,french+kiss+1995,4.0
+10780,42,academic/educator,M,south+park+bigger_+longer++uncut+1999,3.64
+10780,42,academic/educator,M,dr.+strangelove+or+how+i+learned+to+stop+worrying+and+love+the+bomb+1964,3.0
+10780,42,academic/educator,M,lara+croft+tomb+raider+2001,2.0
+10780,42,academic/educator,M,cast+away+2000,3.0
+80929,52,executive/managerial,F,king+kong+1933,3.0
+80929,52,executive/managerial,F,dracula+1931,2.0
+80929,52,executive/managerial,F,horse+feathers+1932,4.0
+80929,52,executive/managerial,F,jamaica+inn+1939,3.0
+138904,43,sales/marketing,M,mortal+kombat+1995,3.64
+138904,43,sales/marketing,M,the+400+blows+1959,4.0
+138904,43,sales/marketing,M,lupin+the+third+the+castle+of+cagliostro+1979,4.0
+138904,43,sales/marketing,M,shanghai+noon+2000,3.0
+88196,50,academic/educator,M,schindlers+list+1993,5.0
+51636,55,retired,M,harry+potter+and+the+philosophers+stone+2001,4.0
+51636,55,retired,M,honey_+i+shrunk+the+kids+1989,3.64
+51636,55,retired,M,rear+window+1954,3.64
+142169,44,college/grad student,M,a+time+to+kill+1996,5.0
+142169,44,college/grad student,M,the+flintstones+1994,5.0
+142169,44,college/grad student,M,rocky+1976,4.0
+142169,44,college/grad student,M,galaxy+quest+1999,1.0
+63619,55,executive/managerial,F,city+of+angels+1998,3.0
+63619,55,executive/managerial,F,the+bone+collector+1999,5.0
+63619,55,executive/managerial,F,the+godfather+part+ii+1974,1.0
+63619,55,executive/managerial,F,black+sheep+1996,3.64
+187626,55,executive/managerial,M,double+indemnity+1944,3.64
+101458,41,artist,M,rear+window+1954,4.0
+101458,41,artist,M,mutiny+on+the+bounty+1935,4.0
+101458,41,artist,M,good+will+hunting+1997,5.0
+101458,41,artist,M,moscow+on+the+hudson+1984,2.0
+174536,55,academic/educator,M,wall+street+1987,3.64
+174536,55,academic/educator,M,blue+velvet+1986,5.0
+174536,55,academic/educator,M,hamlet+1996,3.64
+174536,55,academic/educator,M,mansfield+park+1999,4.0
+12763,51,scientist,M,papillon+1973,4.0
+12763,51,scientist,M,psycho+1960,3.64
+12763,51,scientist,M,dr.+strangelove+or+how+i+learned+to+stop+worrying+and+love+the+bomb+1964,5.0
+12763,51,scientist,M,frankenstein+1931,5.0
+158119,50,other or not specified,M,the+ipcress+file+1965,3.64
+158119,50,other or not specified,M,die+hard+1988,4.0
+158119,50,other or not specified,M,butch+cassidy+and+the+sundance+kid+1969,4.0
+158119,50,other or not specified,M,psycho+1960,5.0
+174458,55,executive/managerial,M,macarthur+1977,2.0
+28741,51,clerical/admin,M,from+dusk+till+dawn+1996,2.0
+28741,51,clerical/admin,M,my+cousin+vinny+1992,4.0
+28741,51,clerical/admin,M,the+player+1992,3.0
+28741,51,clerical/admin,M,enemy+of+the+state+1998,3.64
+38553,41,executive/managerial,M,eraser+1996,3.0
+38553,41,executive/managerial,M,the+client+1994,3.0
+38553,41,executive/managerial,M,snow+white+and+the+seven+dwarfs+1937,4.0
+38553,41,executive/managerial,M,goodfellas+1990,5.0
+19123,43,technician/engineer,M,legends+of+the+fall+1994,3.0
+19123,43,technician/engineer,M,deep+blue+sea+1999,3.64
+19123,43,technician/engineer,M,payback+1999,1.0
+19123,43,technician/engineer,M,die+hard+with+a+vengeance+1995,2.0
+83556,46,clerical/admin,M,sophie+scholl+the+final+days+2005,3.64
+200473,43,academic/educator,M,the+cider+house+rules+1999,3.0
+200473,43,academic/educator,M,amlie+2001,3.64
+200473,43,academic/educator,M,shine+1996,4.0
+200473,43,academic/educator,M,the+french+connection+1971,4.0
+25548,55,academic/educator,M,the+crying+game+1992,5.0
+25548,55,academic/educator,M,run+lola+run+1998,5.0
+25548,55,academic/educator,M,the+straight+story+1999,3.0
+25548,55,academic/educator,M,sweet+and+lowdown+1999,3.64
+90259,55,self-employed,M,barcelona+1994,3.64
+90259,55,self-employed,M,forrest+gump+1994,3.0
+182354,42,executive/managerial,F,dumbo+1941,3.64
+182354,42,executive/managerial,F,cinderella+1950,3.64
+102877,44,scientist,M,the+mask+1994,2.0
+102877,44,scientist,M,slumdog+millionaire+2008,2.0
+113662,41,executive/managerial,M,pretty+woman+1990,4.0
+113662,41,executive/managerial,M,mission+impossible+1996,3.64
+113662,41,executive/managerial,M,crimson+tide+1995,4.0
+113662,41,executive/managerial,M,french+kiss+1995,4.0
+70676,43,executive/managerial,M,rob+roy+1995,3.64
+70676,43,executive/managerial,M,the+net+1995,3.64
+70676,43,executive/managerial,M,disclosure+1994,3.0
+122534,41,unemployed,M,mad+city+1997,3.0
+122534,41,unemployed,M,falling+down+1993,3.0
+122534,41,unemployed,M,mutiny+on+the+bounty+1935,4.0
+4005,55,homemaker,M,song+of+the+thin+man+1947,3.64
+36519,42,artist,F,nine+12+weeks+1986,3.64
+36519,42,artist,F,i.q.+1994,3.64
+38335,46,clerical/admin,F,the+firm+1993,3.64
+38335,46,clerical/admin,F,a+thousand+acres+1997,3.64
+38335,46,clerical/admin,F,river+of+no+return+1954,3.0
+38335,46,clerical/admin,F,death+wish+1974,4.0
+104137,42,college/grad student,M,the+princess+bride+1987,5.0
+104137,42,college/grad student,M,the+godfather+part+iii+1990,3.0
+104137,42,college/grad student,M,the+adventures+of+buckaroo+banzai+across+the+8th+dimension+1984,4.0
+104137,42,college/grad student,M,raiders+of+the+lost+ark+1981,3.64
+122160,49,artist,M,stardust+2007,4.0
+122160,49,artist,M,dave+1993,5.0
+122160,49,artist,M,the+great+escape+1963,5.0
+122160,49,artist,M,the+muppet+movie+1979,5.0
+2491,43,executive/managerial,F,message+in+a+bottle+1999,3.0
+2491,43,executive/managerial,F,brothers+2004,3.64
+2491,43,executive/managerial,F,apocalypto+2006,4.0
+2491,43,executive/managerial,F,as+good+as+it+gets+1997,5.0
+125831,53,scientist,M,the+birdcage+1996,2.0
+125831,53,scientist,M,casablanca+1942,5.0
+125831,53,scientist,M,pulp+fiction+1994,2.0
+125831,53,scientist,M,love+and+death+on+long+island+1997,2.0
+160483,45,retired,F,up+2009,3.64
+160483,45,retired,F,never+been+kissed+1999,3.0
+160483,45,retired,F,my+best+friends+wedding+1997,4.0
+160483,45,retired,F,fargo+1996,4.0
+94943,59,other or not specified,M,top+gun+1986,3.0
+94943,59,other or not specified,M,the+joy+luck+club+1993,5.0
+94943,59,other or not specified,M,heaven+can+wait+1978,3.64
+94943,59,other or not specified,M,indecent+proposal+1993,3.64
+122138,47,customer service,F,west+side+story+1961,4.0
+122138,47,customer service,F,hans+christian+andersen+1952,3.65
+122138,47,customer service,F,arsenic+and+old+lace+1944,3.65
+122138,47,customer service,F,fun++fancy+free+1947,5.0
+40891,53,clerical/admin,F,amadeus+1984,4.0
+40891,53,clerical/admin,F,the+killing+fields+1984,3.64
+40891,53,clerical/admin,F,memento+2000,5.0
+40891,53,clerical/admin,F,indecent+proposal+1993,2.0
+65373,54,executive/managerial,M,the+unbearable+lightness+of+being+1988,3.64
+88779,51,clerical/admin,F,diva+1981,5.0
+88779,51,clerical/admin,F,ghostbusters+1984,3.64
+88779,51,clerical/admin,F,an+ideal+husband+1999,3.64
+88779,51,clerical/admin,F,dersu+uzala+1975,5.0
+34755,57,retired,F,hocus+pocus+1993,5.0
+26365,41,other or not specified,F,blade+runner+1982,3.0
+26365,41,other or not specified,F,rope+1948,3.0
+26365,41,other or not specified,F,thirst+2009,3.0
+26365,41,other or not specified,F,into+the+abyss+2011,4.0
+212033,59,retired,M,james+and+the+giant+peach+1996,4.0
+212033,59,retired,M,willy+wonka++the+chocolate+factory+1971,3.0
+212033,59,retired,M,broken+arrow+1996,5.0
+141299,41,other or not specified,M,legends+of+the+fall+1994,5.0
+141299,41,other or not specified,M,city+slickers+ii+the+legend+of+curlys+gold+1994,2.0
+141299,41,other or not specified,M,the+santa+clause+1994,3.0
+96120,52,executive/managerial,M,almost+famous+2000,5.0
+96120,52,executive/managerial,M,return+of+the+jedi+1983,4.0
+96120,52,executive/managerial,M,life+is+beautiful+1997,5.0
+96120,52,executive/managerial,M,arsenic+and+old+lace+1944,3.64
+9759,44,academic/educator,M,secrets++lies+1996,5.0
+9759,44,academic/educator,M,witness+1985,4.0
+9759,44,academic/educator,M,diner+1982,3.0
+9759,44,academic/educator,M,bull+durham+1988,3.0
+31160,43,scientist,F,angels+in+the+outfield+1994,3.0
+31160,43,scientist,F,batman++robin+1997,3.64
+31160,43,scientist,F,anna+and+the+king+1999,5.0
+31160,43,scientist,F,the+chronicles+of+narnia+the+voyage+of+the+dawn+treader+2010,5.0
+72032,56,retired,F,rosencrantz++guildenstern+are+dead+1991,5.0
+72032,56,retired,F,toy+story+2+1999,4.0
+72032,56,retired,F,Unknown,3.0
+169135,49,academic/educator,M,kinsey+2004,3.0
+169135,49,academic/educator,M,american+movie+1999,4.0
+194158,41,academic/educator,M,the+cider+house+rules+1999,3.64
+194158,41,academic/educator,M,random+hearts+1999,3.64
+194158,41,academic/educator,M,summer+of+42+1971,3.64
+194158,41,academic/educator,M,the+usual+suspects+1995,4.0
+105665,41,executive/managerial,M,diamonds+are+forever+1971,4.0
+105665,41,executive/managerial,M,the+patriot+2000,5.0
+108327,44,executive/managerial,M,braveheart+1995,3.0
+108327,44,executive/managerial,M,jurassic+park+1993,3.0
+108327,44,executive/managerial,M,dances+with+wolves+1990,5.0
+108327,44,executive/managerial,M,four+weddings+and+a+funeral+1994,3.64
+151258,41,K-12 student,F,it+happened+one+night+1934,3.64
+151258,41,K-12 student,F,the+39+steps+1935,5.0
+151258,41,K-12 student,F,his+girl+friday+1940,5.0
+151258,41,K-12 student,F,song+of+the+south+1946,3.0
+116599,49,clerical/admin,F,love+affair+1994,5.0
+116599,49,clerical/admin,F,sense+and+sensibility+1995,3.64
+116599,49,clerical/admin,F,the+graduate+1967,3.64
+116599,49,clerical/admin,F,pretty+woman+1990,5.0
+104062,43,retired,F,the+right+stuff+1983,3.65
+104062,43,retired,F,the+best+years+of+our+lives+1946,3.65
+104062,43,retired,F,in+the+heat+of+the+night+1967,3.65
+104062,43,retired,F,the+killing+fields+1984,4.0
+95885,49,other or not specified,M,strangers+on+a+train+1951,4.0
+95885,49,other or not specified,M,pi+1998,4.0
+95885,49,other or not specified,M,the+matrix+1999,4.0
+199936,46,academic/educator,F,first+position+2011,3.65
+199936,46,academic/educator,F,austin+powers+international+man+of+mystery+1997,3.65
+199936,46,academic/educator,F,clueless+1995,5.0
+199936,46,academic/educator,F,harold+and+maude+1971,3.65
+43742,44,other or not specified,M,outbreak+1995,3.64
+43742,44,other or not specified,M,dave+1993,3.0
+43742,44,other or not specified,M,batman+1989,3.64
+43742,44,other or not specified,M,babe+1995,5.0
+101307,51,executive/managerial,M,casino+1995,3.0
+137805,44,sales/marketing,M,con+air+1997,1.0
+137805,44,sales/marketing,M,the+return+of+jafar+1994,1.0
+137805,44,sales/marketing,M,the+book+of+life+2014,3.0
+137805,44,sales/marketing,M,sound+of+my+voice+2011,2.0
+147858,42,homemaker,F,good+will+hunting+1997,5.0
+147858,42,homemaker,F,rebecca+1940,4.0
+147858,42,homemaker,F,rebel+without+a+cause+1955,3.0
+147858,42,homemaker,F,mission+impossible+ii+2000,4.0
+173317,43,executive/managerial,M,rihie+rih+1994,3.0
+119663,50,self-employed,F,help+1965,5.0
+70043,44,executive/managerial,F,sneakers+1992,3.0
+70043,44,executive/managerial,F,the+last+of+the+mohicans+1992,4.0
+15239,42,other or not specified,M,the+gods+must+be+crazy+1980,3.64
+15239,42,other or not specified,M,benny++joon+1993,3.0
+15239,42,other or not specified,M,sicko+2007,5.0
+15239,42,other or not specified,M,risky+business+1983,3.64
+20830,59,retired,F,strictly+ballroom+1992,5.0
+20830,59,retired,F,sister+act+1992,4.0
+20830,59,retired,F,harvey+1950,4.0
+20830,59,retired,F,the+first+wives+club+1996,3.64
+179310,43,executive/managerial,M,mighty+aphrodite+1995,3.0
+179310,43,executive/managerial,M,dances+with+wolves+1990,4.0
+179310,43,executive/managerial,M,the+phantom+1996,3.0
+179310,43,executive/managerial,M,space+jam+1996,3.64
+147042,42,retired,M,the+full+monty+1997,3.0
+147042,42,retired,M,dances+with+wolves+1990,1.0
+147042,42,retired,M,field+of+dreams+1989,1.0
+147042,42,retired,M,bend+it+like+beckham+2002,3.64
+69085,42,self-employed,F,mary+and+max+2009,5.0
+15467,46,writer,F,when+a+man+loves+a+woman+1994,3.64
+15467,46,writer,F,striptease+1996,3.0
+168736,43,executive/managerial,M,little+big+man+1970,5.0
+168736,43,executive/managerial,M,tora+tora+tora+1970,3.0
+168736,43,executive/managerial,M,the+big+chill+1983,3.64
+168736,43,executive/managerial,M,high+noon+1952,5.0
+139916,47,retired,M,the+cove+2009,4.0
+139916,47,retired,M,fatal+attraction+1987,1.0
+139916,47,retired,M,field+of+dreams+1989,1.0
+139916,47,retired,M,backdraft+1991,2.0
+59135,50,academic/educator,F,a+civil+action+1998,3.64
+59135,50,academic/educator,F,devil+in+a+blue+dress+1995,3.0
+59135,50,academic/educator,F,simply+irresistible+1999,3.64
+59135,50,academic/educator,F,central+station+1998,3.64
+71702,43,executive/managerial,M,heidi+1937,3.64
+5982,51,scientist,M,trouble+in+paradise+1932,3.0
+176293,42,executive/managerial,M,amadeus+1984,4.0
+176293,42,executive/managerial,M,hostel+2005,1.0
+176293,42,executive/managerial,M,memoirs+of+a+geisha+2005,3.0
+176293,42,executive/managerial,M,ace+ventura+when+nature+calls+1995,3.0
+125132,58,executive/managerial,M,nixon+1995,3.0
+43160,43,executive/managerial,M,spaceballs+1987,3.0
+43160,43,executive/managerial,M,amadeus+1984,4.0
+43160,43,executive/managerial,M,meet+the+parents+2000,5.0
+66341,50,academic/educator,M,jfk+1991,2.0
+66341,50,academic/educator,M,alien+1979,3.64
+66341,50,academic/educator,M,the+french+connection+1971,3.64
+66341,50,academic/educator,M,the+conversation+1974,5.0
+201638,44,artist,M,rihie+rih+1994,3.64
+201638,44,artist,M,shrek+2001,3.0
+201638,44,artist,M,casablanca+1942,3.0
+201638,44,artist,M,maria+full+of+grace+2004,3.0
+124158,58,clerical/admin,F,here+on+earth+2000,3.64
+124158,58,clerical/admin,F,vertigo+1958,5.0
+25427,42,academic/educator,M,rosencrantz++guildenstern+are+dead+1991,3.64
+25427,42,academic/educator,M,the+last+detail+1973,5.0
+152019,43,academic/educator,M,the+godfather+part+ii+1974,5.0
+152019,43,academic/educator,M,the+third+man+1949,5.0
+152019,43,academic/educator,M,sleeper+1973,3.0
+152019,43,academic/educator,M,whos+afraid+of+virginia+woolf+1966,3.64
+192867,55,academic/educator,F,the+flintstones+1994,2.0
+192867,55,academic/educator,F,the+apple+dumpling+gang+rides+again+1979,3.0
+192867,55,academic/educator,F,a+little+romance+1979,3.64
+192867,55,academic/educator,F,the+bourne+identity+2002,3.64
+64567,41,executive/managerial,M,desperado+1995,3.64
+64567,41,executive/managerial,M,the+hours+2002,5.0
+64567,41,executive/managerial,M,butch+cassidy+and+the+sundance+kid+1969,4.0
+91349,42,clerical/admin,F,stop+making+sense+1984,3.64
+91349,42,clerical/admin,F,glengarry+glen+ross+1992,3.64
+35357,44,clerical/admin,F,the+game+1997,2.0
+185212,44,scientist,M,the+postman+1994,5.0
+185212,44,scientist,M,airport+1970,3.0
+185212,44,scientist,M,beneath+the+planet+of+the+apes+1970,3.0
+185212,44,scientist,M,buena+vista+social+club+1999,3.0
+170164,43,executive/managerial,F,top+gun+1986,3.64
+170164,43,executive/managerial,F,psycho+1960,5.0
+170164,43,executive/managerial,F,mrs+brown+1997,5.0
+170164,43,executive/managerial,F,doctor+zhivago+1965,4.0
+198457,46,academic/educator,F,pee-wees+big+adventure+1985,4.0
+118476,44,tradesman/craftsman,M,star+trek+iii+the+search+for+spock+1984,3.64
+117892,41,executive/managerial,M,crimson+tide+1995,5.0
+117892,41,executive/managerial,M,congo+1995,2.0
+117892,41,executive/managerial,M,dances+with+wolves+1990,3.64
+117892,41,executive/managerial,M,rob+roy+1995,5.0
+118554,42,academic/educator,F,barfly+1987,1.0
+118554,42,academic/educator,F,napoleon+dynamite+2004,4.0
+118554,42,academic/educator,F,the+boy+in+the+striped+pyjamas+2008,4.0
+118554,42,academic/educator,F,vertigo+1958,2.0
+13437,51,executive/managerial,M,dead+man+walking+1995,5.0
+13437,51,executive/managerial,M,true+lies+1994,2.0
+193888,51,retired,F,a+league+of+their+own+1992,3.64
+193888,51,retired,F,dave+1993,3.0
+193888,51,retired,F,the+red+violin+1998,5.0
+193888,51,retired,F,mrs+brown+1997,4.0
+167393,41,other or not specified,F,babe+1995,5.0
+167393,41,other or not specified,F,braveheart+1995,5.0
+127597,52,artist,F,wag+the+dog+1997,1.0
+127597,52,artist,F,three+colors+blue+1993,4.0
+127597,52,artist,F,e.t.+the+extra-terrestrial+1982,3.64
+71709,58,college/grad student,F,scrooged+1988,4.0
+71709,58,college/grad student,F,the+right+stuff+1983,3.0
+165885,58,clerical/admin,F,grease+1978,3.64
+165885,58,clerical/admin,F,ghost+1990,3.64
+165885,58,clerical/admin,F,the+truth+about+cats++dogs+1996,5.0
+165885,58,clerical/admin,F,liar+liar+1997,3.0
+197088,43,academic/educator,M,braveheart+1995,3.64
+160872,54,executive/managerial,F,the+third+man+1949,5.0
+160872,54,executive/managerial,F,l.a.+confidential+1997,4.0
+148474,50,academic/educator,F,romeo+must+die+2000,5.0
+148474,50,academic/educator,F,forever+young+1992,3.0
+148474,50,academic/educator,F,the+little+mermaid+1989,5.0
+148474,50,academic/educator,F,legends+of+the+fall+1994,4.0
+82255,42,academic/educator,M,back+to+the+future+1985,4.0
+170218,42,sales/marketing,M,demonlover+2002,3.0
+170218,42,sales/marketing,M,true+grit+2010,1.0
+182852,42,writer,M,herbie+fully+loaded+2005,2.0
+182852,42,writer,M,poetic+justice+1993,2.0
+182852,42,writer,M,rise+of+the+planet+of+the+apes+2011,3.0
+182852,42,writer,M,the+eye+2002,3.0
+77863,43,college/grad student,M,black+tar+heroin+the+dark+end+of+the+street+2000,3.0
+77863,43,college/grad student,M,beauty+and+the+beast+1991,5.0
+77863,43,college/grad student,M,misery+1990,2.0
+77863,43,college/grad student,M,the+empire+strikes+back+1980,3.64
+111154,51,executive/managerial,M,a+clockwork+orange+1971,5.0
+182407,51,academic/educator,F,indiana+jones+and+the+last+crusade+1989,4.0
+182407,51,academic/educator,F,the+absent-minded+professor+1961,5.0
+182407,51,academic/educator,F,the+last+of+the+mohicans+1992,5.0
+182407,51,academic/educator,F,beetlejuice+1988,3.64
+115878,44,college/grad student,F,ace+ventura+pet+detective+1994,3.0
+115878,44,college/grad student,F,speechless+1994,3.0
+105375,51,clerical/admin,M,rififi+1955,4.0
+105375,51,clerical/admin,M,the+good_+the+bad+and+the+ugly+1966,5.0
+105375,51,clerical/admin,M,se7en+1995,3.64
+105375,51,clerical/admin,M,charlies+angels+2000,2.0
+175634,44,executive/managerial,M,rumble+in+the+bronx+1995,3.0
+175634,44,executive/managerial,M,princess+mononoke+1997,3.64
+175634,44,executive/managerial,M,x-men+2000,5.0
+175634,44,executive/managerial,M,the+lord+of+the+rings+the+two+towers+2002,4.0
+112565,54,academic/educator,M,sarafina+1992,4.0
+112565,54,academic/educator,M,the+silence+of+the+lambs+1991,4.0
+112565,54,academic/educator,M,shakespeare+in+love+1998,5.0
+112565,54,academic/educator,M,maya+lin+a+strong+clear+vision+1995,5.0
+33458,43,executive/managerial,M,stargate+1994,3.63
+33458,43,executive/managerial,M,speed+1994,4.0
+33458,43,executive/managerial,M,home+alone+1990,3.63
+33458,43,executive/managerial,M,the+silence+of+the+lambs+1991,4.0
+25663,53,executive/managerial,M,coneheads+1993,3.0
+25663,53,executive/managerial,M,norma+rae+1979,3.0
+25663,53,executive/managerial,M,ghost+1990,3.0
+25663,53,executive/managerial,M,unlawful+entry+1992,4.0
+205010,41,executive/managerial,F,shrek+2001,1.0
+205010,41,executive/managerial,F,my+big+fat+greek+wedding+2002,3.0
+205010,41,executive/managerial,F,arsenic+and+old+lace+1944,3.64
+205010,41,executive/managerial,F,101+dalmatians+1996,3.0
+69643,46,academic/educator,M,in+the+heat+of+the+night+1967,4.0
+69643,46,academic/educator,M,notting+hill+1999,3.0
+203950,42,sales/marketing,M,moonraker+1979,3.0
+203950,42,sales/marketing,M,baby+boom+1987,3.63
+203950,42,sales/marketing,M,cocoon+1985,3.0
+203950,42,sales/marketing,M,a+nightmare+on+elm+street+1984,1.0
+68707,41,academic/educator,F,dances+with+wolves+1990,3.64
+68707,41,academic/educator,F,bullets+over+broadway+1994,3.64
+68707,41,academic/educator,F,little+women+1994,3.64
+108197,49,self-employed,F,little+big+man+1970,4.0
+108197,49,self-employed,F,six+degrees+of+separation+1993,4.0
+108197,49,self-employed,F,dancer+in+the+dark+2000,2.0
+108197,49,self-employed,F,buffalo+66+1998,3.64
+13918,44,lawyer,M,citizen+kane+1941,3.64
+13918,44,lawyer,M,apocalypse+now+1979,4.0
+13918,44,lawyer,M,ghostbusters+1984,3.64
+19799,41,executive/managerial,M,the+nutty+professor+1996,3.0
+19799,41,executive/managerial,M,driving+miss+daisy+1989,3.64
+19799,41,executive/managerial,M,used+cars+1980,3.64
+19799,41,executive/managerial,M,the+preachers+wife+1996,3.64
+115364,45,sales/marketing,M,nims+island+2008,4.0
+115364,45,sales/marketing,M,the+war+of+the+worlds+1953,1.0
+115364,45,sales/marketing,M,on+flux+2005,4.0
+115364,45,sales/marketing,M,red+planet+2000,4.0
+28096,43,executive/managerial,M,dr.+strangelove+or+how+i+learned+to+stop+worrying+and+love+the+bomb+1964,3.64
+28096,43,executive/managerial,M,dragonheart+1996,3.64
+28096,43,executive/managerial,M,legends+of+the+fall+1994,1.0
+28096,43,executive/managerial,M,the+piano+1993,1.0
+144693,44,scientist,M,the+producers+1967,3.64
+144693,44,scientist,M,bulworth+1998,3.64
+144693,44,scientist,M,logans+run+1976,2.0
+144693,44,scientist,M,midnight+cowboy+1969,5.0
+93468,59,lawyer,F,gosford+park+2001,3.64
+93468,59,lawyer,F,blade+ii+2002,4.0
+93468,59,lawyer,F,the+secret+of+nimh+1982,5.0
+93468,59,lawyer,F,anastasia+1997,4.0
+70018,42,homemaker,F,shes+the+man+2006,3.64
+70018,42,homemaker,F,Unknown,3.0
+70018,42,homemaker,F,mr.+deeds+2002,3.0
+70018,42,homemaker,F,lara+croft+tomb+raider+the+cradle+of+life+2003,4.0
+57616,56,retired,M,the+sound+of+music+1965,5.0
+57616,56,retired,M,mary+poppins+1964,4.0
+57616,56,retired,M,west+side+story+1961,4.0
+57616,56,retired,M,cinderella+1950,3.0
+63155,54,executive/managerial,M,rebel+without+a+cause+1955,3.64
+63155,54,executive/managerial,M,road+to+perdition+2002,3.0
+63155,54,executive/managerial,M,fletch+1985,3.64
+63155,54,executive/managerial,M,the+philadelphia+story+1940,4.0
+27505,42,other or not specified,M,robocop+1987,3.0
+27505,42,other or not specified,M,moonstruck+1987,3.0
+27505,42,other or not specified,M,the+fly+ii+1989,3.64
+27505,42,other or not specified,M,operation+petticoat+1959,4.0
+23961,42,retired,F,the+dark+crystal+1982,2.0
+23961,42,retired,F,anne+of+green+gables+the+sequel+1987,5.0
+23961,42,retired,F,the+brady+bunch+movie+1995,3.0
+23961,42,retired,F,the+three+musketeers+1993,5.0
+108585,53,academic/educator,M,romancing+the+stone+1984,3.64
+108585,53,academic/educator,M,the+silence+of+the+lambs+1991,3.64
+108585,53,academic/educator,M,the+mambo+kings+1992,3.0
+108585,53,academic/educator,M,platoon+1986,4.0
+12526,57,retired,F,dances+with+wolves+1990,2.0
+12526,57,retired,F,doctor+zhivago+1965,5.0
+101958,51,writer,F,the+proposal+2009,4.0
+101958,51,writer,F,27+dresses+2008,3.0
+101958,51,writer,F,bride+wars+2009,4.0
+15838,47,sales/marketing,M,network+1976,3.64
+15838,47,sales/marketing,M,reality+bites+1994,3.0
+15838,47,sales/marketing,M,munich+2005,4.0
+15838,47,sales/marketing,M,batman+forever+1995,3.0
+147300,54,technician/engineer,M,scream+2+1997,4.0
+147300,54,technician/engineer,M,20_000+leagues+under+the+sea+1954,4.0
+147300,54,technician/engineer,M,10_000+bc+2008,3.64
+147300,54,technician/engineer,M,tank+girl+1995,4.0
+39957,41,executive/managerial,M,young+guns+1988,2.0
+39957,41,executive/managerial,M,310+to+yuma+2007,5.0
+39957,41,executive/managerial,M,once+2007,5.0
+39957,41,executive/managerial,M,ratatouille+2007,5.0
+176493,49,college/grad student,M,the+godfather+1972,3.64
+176493,49,college/grad student,M,pulp+fiction+1994,3.0
+176493,49,college/grad student,M,heidi+fleiss+hollywood+madam+1995,5.0
+176493,49,college/grad student,M,hoop+dreams+1994,1.0
+135190,41,self-employed,M,shakespeare+in+love+1998,4.0
+135190,41,self-employed,M,one+flew+over+the+cuckoos+nest+1975,3.64
+135190,41,self-employed,M,toy+story+1995,3.0
+6034,45,sales/marketing,M,total+recall+1990,3.0
+6034,45,sales/marketing,M,the+french+connection+1971,3.64
+69997,51,academic/educator,M,back+to+the+future+1985,5.0
+69997,51,academic/educator,M,the+killing+1956,4.0
+69997,51,academic/educator,M,the+right+stuff+1983,3.64
+69997,51,academic/educator,M,flirting+with+disaster+1996,5.0
+155895,51,academic/educator,M,the+godfather+part+ii+1974,4.0
+187784,43,executive/managerial,M,the+firm+1993,4.0
+187784,43,executive/managerial,M,schindlers+list+1993,3.0
+187784,43,executive/managerial,M,last+action+hero+1993,3.64
+187784,43,executive/managerial,M,free+willy+1993,3.0
+39766,42,clerical/admin,M,the+day+after+tomorrow+2004,3.0
+39766,42,clerical/admin,M,in+her+shoes+2005,4.0
+39766,42,clerical/admin,M,about+schmidt+2002,4.0
+39766,42,clerical/admin,M,shakespeare+in+love+1998,3.0
+145992,50,executive/managerial,M,first+knight+1995,3.0
+145992,50,executive/managerial,M,rumble+in+the+bronx+1995,3.64
+108995,43,executive/managerial,F,sunset+boulevard+1950,5.0
+108995,43,executive/managerial,F,butch+cassidy+and+the+sundance+kid+1969,3.0
+108995,43,executive/managerial,F,the+manchurian+candidate+1962,5.0
+108995,43,executive/managerial,F,double+indemnity+1944,5.0
+3089,48,artist,F,leaving+las+vegas+1995,5.0
+3089,48,artist,F,a+river+runs+through+it+1992,3.64
+3089,48,artist,F,amlie+2001,3.64
+3089,48,artist,F,rushmore+1998,4.0
+121129,51,academic/educator,F,the+rocky+horror+picture+show+1975,5.0
+121129,51,academic/educator,F,schindlers+list+1993,4.0
+121129,51,academic/educator,F,sixteen+candles+1984,4.0
+121129,51,academic/educator,F,never+been+kissed+1999,4.0
+195010,53,executive/managerial,M,waterworld+1995,3.0
+195010,53,executive/managerial,M,the+net+1995,4.0
+195010,53,executive/managerial,M,desperado+1995,5.0
+145552,50,executive/managerial,F,brief+encounter+1945,5.0
+145552,50,executive/managerial,F,psycho+1960,4.0
+145552,50,executive/managerial,F,gone+with+the+wind+1939,4.0
+145552,50,executive/managerial,F,my+man+godfrey+1957,2.0
+188026,55,executive/managerial,F,notorious+1946,3.64
+32614,41,self-employed,F,the+african+queen+1951,5.0
+32614,41,self-employed,F,cabaret+1972,4.0
+32614,41,self-employed,F,dangerous+liaisons+1988,3.64
+32614,41,self-employed,F,guys+and+dolls+1955,3.64
+192199,43,sales/marketing,M,beautiful+girls+1996,3.0
+192199,43,sales/marketing,M,rear+window+1954,3.64
+192199,43,sales/marketing,M,free+willy+1993,3.64
+192199,43,sales/marketing,M,barry+lyndon+1975,3.0
+172516,48,executive/managerial,M,last+action+hero+1993,3.64
+172516,48,executive/managerial,M,a+time+to+kill+1996,2.0
+172516,48,executive/managerial,M,the+thomas+crown+affair+1999,2.0
+172516,48,executive/managerial,M,the+man+from+snowy+river+1982,3.64
+135814,41,technician/engineer,M,toy+story+2+1999,3.64
+67721,53,other or not specified,M,remember+the+titans+2000,2.0
+67721,53,other or not specified,M,hud+1963,3.64
+67721,53,other or not specified,M,rush+hour+1998,5.0
+67721,53,other or not specified,M,pay+it+forward+2000,3.64
+80802,43,executive/managerial,M,duck+soup+1933,5.0
+80802,43,executive/managerial,M,the+indian+in+the+cupboard+1995,3.64
+80802,43,executive/managerial,M,south+pacific+1958,2.0
+80802,43,executive/managerial,M,fahrenheit+451+1966,3.64
+94254,44,executive/managerial,F,seven+years+in+tibet+1997,3.0
+94254,44,executive/managerial,F,the+usual+suspects+1995,5.0
+94254,44,executive/managerial,F,amazing+grace+2006,4.0
+94254,44,executive/managerial,F,cinderella+man+2005,4.0
+165018,42,sales/marketing,M,the+cutting+edge+1992,3.64
+165018,42,sales/marketing,M,the+libertine+2004,1.0
+165018,42,sales/marketing,M,waiting+for+guffman+1996,4.0
+165018,42,sales/marketing,M,snake+eyes+1998,2.0
+13244,44,other or not specified,M,the+abyss+1989,3.64
+13244,44,other or not specified,M,big+daddy+1999,2.0
+113037,44,technician/engineer,M,terminator+2+judgment+day+1991,5.0
+113037,44,technician/engineer,M,the+wild+bunch+1969,5.0
+113037,44,technician/engineer,M,the+adventures+of+buckaroo+banzai+across+the+8th+dimension+1984,4.0
+113037,44,technician/engineer,M,braveheart+1995,5.0
+186732,42,self-employed,F,the+double+life+of+veronique+1991,3.0
+186732,42,self-employed,F,ordinary+people+1980,3.64
+186732,42,self-employed,F,the+long+goodbye+1973,3.0
+186732,42,self-employed,F,fall+1997,4.0
+81298,54,other or not specified,M,beverly+hills+cop+iii+1994,4.0
+81298,54,other or not specified,M,home+alone+1990,5.0
+112416,47,homemaker,F,frequency+2000,3.0
+112416,47,homemaker,F,the+american+president+1995,4.0
+112416,47,homemaker,F,edward+scissorhands+1990,2.0
+152725,41,other or not specified,F,three+colors+blue+1993,3.0
+152725,41,other or not specified,F,dumb+and+dumber+1994,3.0
+152725,41,other or not specified,F,like+water+for+chocolate+1992,3.64
+152725,41,other or not specified,F,barcelona+1994,4.0
+145690,41,college/grad student,M,one+flew+over+the+cuckoos+nest+1975,3.64
+145690,41,college/grad student,M,2001+a+space+odyssey+1968,4.0
+145690,41,college/grad student,M,the+santa+clause+1994,3.64
+145690,41,college/grad student,M,metropolis+2001,3.64
+51886,48,academic/educator,F,the+craft+1996,1.0
+51886,48,academic/educator,F,before+sunrise+1995,3.64
+51886,48,academic/educator,F,before+sunset+2004,5.0
+51886,48,academic/educator,F,gosford+park+2001,3.64
+97722,41,self-employed,F,se7en+1995,5.0
+97722,41,self-employed,F,pretty+in+pink+1986,4.0
+97722,41,self-employed,F,cat+on+a+hot+tin+roof+1958,4.0
+97722,41,self-employed,F,stranger+than+paradise+1984,4.0
+212549,41,executive/managerial,F,toy+story+1995,2.0
+212549,41,executive/managerial,F,independence+day+1996,3.64
+212549,41,executive/managerial,F,broken+arrow+1996,3.64
+177715,42,sales/marketing,M,boys+dont+cry+1999,2.0
+177715,42,sales/marketing,M,lucky+number+slevin+2006,3.64
+177715,42,sales/marketing,M,nacho+libre+2006,2.0
+191886,43,academic/educator,M,bob+roberts+1992,3.64
+191886,43,academic/educator,M,best+in+show+2000,5.0
+191886,43,academic/educator,M,chicken+run+2000,4.0
+191886,43,academic/educator,M,fight+club+1999,5.0
+175655,48,academic/educator,F,big+daddy+1999,2.0
+175655,48,academic/educator,F,hamlet+1996,3.0
+175655,48,academic/educator,F,juno+2007,4.0
+175655,48,academic/educator,F,nurse+betty+2000,2.0
+178060,42,college/grad student,F,pinocchio+1940,5.0
+178060,42,college/grad student,F,star+trek+iv+the+voyage+home+1986,4.0
+178060,42,college/grad student,F,first+knight+1995,3.0
+93846,53,academic/educator,M,the+shawshank+redemption+1994,5.0
+93846,53,academic/educator,M,grumpier+old+men+1995,4.0
+93846,53,academic/educator,M,the+great+escape+1963,4.0
+93846,53,academic/educator,M,goodfellas+1990,4.0
+68881,55,executive/managerial,F,shampoo+1975,2.0
+37109,55,retired,F,the+last+emperor+1987,5.0
+37109,55,retired,F,300+2006,5.0
+37109,55,retired,F,meet+joe+black+1998,3.64
+37109,55,retired,F,the+first+wives+club+1996,4.0
+11186,49,K-12 student,F,petes+dragon+1977,1.0
+11186,49,K-12 student,F,the+muppet+christmas+carol+1992,2.0
+11186,49,K-12 student,F,lady+and+the+tramp+1955,4.0
+11186,49,K-12 student,F,shakespeare+in+love+1998,3.64
+45187,49,self-employed,F,the+empire+strikes+back+1980,3.64
+45187,49,self-employed,F,fever+pitch+1997,3.0
+45187,49,self-employed,F,sleepless+in+seattle+1993,3.64
+45187,49,self-employed,F,mary+poppins+1964,4.0
+142456,43,artist,M,broken+flowers+2005,5.0
+142456,43,artist,M,the+man+who+wasnt+there+2001,5.0
+142456,43,artist,M,forgotten+silver+1995,4.0
+142456,43,artist,M,die+hard+1988,3.64
+177139,47,academic/educator,F,walking+and+talking+1996,3.64
+177139,47,academic/educator,F,the+english+patient+1996,5.0
+177139,47,academic/educator,F,what+dreams+may+come+1998,1.0
+177139,47,academic/educator,F,crumb+1994,3.0
+178772,46,sales/marketing,M,oldboy+2003,5.0
+178772,46,sales/marketing,M,the+deer+hunter+1978,3.64
+178772,46,sales/marketing,M,toy+story+that+time+forgot+2014,4.0
+178772,46,sales/marketing,M,dracula+1931,3.64
+86380,54,academic/educator,M,the+truman+show+1998,1.0
+86380,54,academic/educator,M,the+truth+about+cats++dogs+1996,4.0
+86380,54,academic/educator,M,the+grifters+1990,4.0
+86380,54,academic/educator,M,chocolat+2000,3.64
+161848,51,self-employed,F,the+bourne+ultimatum+2007,3.64
+161848,51,self-employed,F,music+and+lyrics+2007,4.0
+161848,51,self-employed,F,the+shining+1980,3.0
+190836,59,academic/educator,M,death+and+the+maiden+1994,2.0
+190836,59,academic/educator,M,under+siege+2+dark+territory+1995,5.0
+190836,59,academic/educator,M,apollo+13+1995,4.0
+134082,41,artist,F,erin+brockovich+2000,4.0
+134082,41,artist,F,crash+2004,5.0
+134082,41,artist,F,the+lord+of+the+rings+the+fellowship+of+the+ring+2001,4.0
+134082,41,artist,F,pleasantville+1998,3.64
+79570,46,sales/marketing,M,blood+diamond+2006,3.64
+79570,46,sales/marketing,M,iron+sky+2012,3.0
+193104,44,artist,M,alien+1979,5.0
+193104,44,artist,M,cape+fear+1962,4.0
+193104,44,artist,M,definitely_+maybe+2008,3.0
+193104,44,artist,M,the+cuckoo+2002,3.64
+36788,42,executive/managerial,M,the+sting+1973,4.0
+36788,42,executive/managerial,M,superman+1978,3.64
+36788,42,executive/managerial,M,the+matrix+1999,5.0
+36788,42,executive/managerial,M,e.t.+the+extra-terrestrial+1982,3.64
+24669,52,homemaker,F,ghost+1990,3.64
+24669,52,homemaker,F,rebecca+1940,3.64
+24669,52,homemaker,F,farewell+my+concubine+1993,5.0
+24669,52,homemaker,F,notorious+1946,4.0
+190302,59,other or not specified,F,secrets++lies+1996,5.0
+41511,45,executive/managerial,M,the+lord+of+the+rings+the+fellowship+of+the+ring+2001,5.0
+89895,48,self-employed,F,the+saint+1997,3.63
+89895,48,self-employed,F,shortbus+2006,3.63
+89895,48,self-employed,F,air+bud+golden+receiver+1998,3.63
+89895,48,self-employed,F,little+shop+of+horrors+1986,3.0
+96017,48,executive/managerial,M,places+in+the+heart+1984,4.0
+96017,48,executive/managerial,M,midnight+cowboy+1969,3.63
+96017,48,executive/managerial,M,planet+of+the+apes+1968,3.63
+96017,48,executive/managerial,M,die+hard+1988,2.0
+8647,44,sales/marketing,M,dead+tired+1994,4.0
+8647,44,sales/marketing,M,lady+and+the+tramp+1955,2.0
+8647,44,sales/marketing,M,penn++teller+get+killed+1989,5.0
+115226,41,clerical/admin,M,the+life+aquatic+with+steve+zissou+2004,3.63
+115226,41,clerical/admin,M,brother+2000,3.0
+101498,43,college/grad student,M,liar+liar+1997,1.0
+101498,43,college/grad student,M,gattaca+1997,3.63
+101498,43,college/grad student,M,superman+1978,3.63
+64118,58,retired,M,the+sting+1973,4.0
+123588,41,executive/managerial,M,legends+of+the+fall+1994,4.0
+123588,41,executive/managerial,M,armageddon+1998,4.0
+159818,43,executive/managerial,F,heidi+fleiss+hollywood+madam+1995,3.0
+17117,48,academic/educator,M,dr.+strangelove+or+how+i+learned+to+stop+worrying+and+love+the+bomb+1964,3.0
+17117,48,academic/educator,M,casablanca+1942,4.0
+166698,46,sales/marketing,M,the+hangover+2009,3.0
+166698,46,sales/marketing,M,lethal+weapon+1987,3.0
+166698,46,sales/marketing,M,die+hard+1988,3.63
+166698,46,sales/marketing,M,la+jete+1962,5.0
+166852,44,self-employed,M,pocahontas+1995,5.0
+166852,44,self-employed,M,sleepless+in+seattle+1993,3.63
+166852,44,self-employed,M,beauty+and+the+beast+1991,5.0
+166852,44,self-employed,M,pretty+woman+1990,3.63
+3040,54,sales/marketing,F,hilary+and+jackie+1998,3.0
+3040,54,sales/marketing,F,wall+street+1987,5.0
+3040,54,sales/marketing,F,my+left+foot+the+story+of+christy+brown+1989,4.0
+3040,54,sales/marketing,F,state+and+main+2000,5.0
+178798,42,academic/educator,M,desk+set+1957,3.63
+178798,42,academic/educator,M,jurassic+park+1993,3.63
+178798,42,academic/educator,M,braveheart+1995,2.0
+178798,42,academic/educator,M,crocodile+dundee+1986,3.63
+37317,43,artist,M,the+hand+that+rocks+the+cradle+1992,3.0
+114072,46,academic/educator,F,man+of+the+year+1995,5.0
+114072,46,academic/educator,F,larger+than+life+1996,5.0
+114072,46,academic/educator,F,the+frighteners+1996,3.63
+114072,46,academic/educator,F,mars+attacks+1996,3.63
+49960,46,K-12 student,F,the+little+mermaid+1989,4.0
+49960,46,K-12 student,F,my+life+in+pink+1997,4.0
+49960,46,K-12 student,F,much+ado+about+nothing+1993,3.63
+49960,46,K-12 student,F,moonstruck+1987,3.0
+21503,43,scientist,F,la+grande+bouffe+1973,4.0
+21503,43,scientist,F,the+bedroom+window+1987,3.63
+21503,43,scientist,F,doctor+zhivago+1965,4.0
+21503,43,scientist,F,the+tailor+of+panama+2001,3.63
+187342,60,executive/managerial,M,the+killing+fields+1984,5.0
+187342,60,executive/managerial,M,the+deer+hunter+1978,5.0
+187342,60,executive/managerial,M,patton+1970,5.0
+187342,60,executive/managerial,M,mutiny+on+the+bounty+1935,5.0
+152966,42,sales/marketing,M,superstar+1999,2.0
+152966,42,sales/marketing,M,harry+potter+and+the+philosophers+stone+2001,3.0
+186450,43,college/grad student,M,terminator+2+judgment+day+1991,5.0
+186450,43,college/grad student,M,dumb+and+dumber+1994,3.63
+186450,43,college/grad student,M,little+big+league+1994,4.0
+186450,43,college/grad student,M,casper+1995,3.0
+49915,43,college/grad student,F,executive+decision+1996,3.63
+49915,43,college/grad student,F,up+close++personal+1996,3.0
+49915,43,college/grad student,F,the+nutty+professor+1996,4.0
+49915,43,college/grad student,F,beautiful+girls+1996,4.0
+18897,44,sales/marketing,M,dead+men+dont+wear+plaid+1982,4.0
+18897,44,sales/marketing,M,o+brother_+where+art+thou+2000,3.64
+18897,44,sales/marketing,M,memento+2000,3.64
+18897,44,sales/marketing,M,the+limey+1999,4.0
+198846,44,sales/marketing,M,pirates+of+the+caribbean+at+worlds+end+2007,3.0
+198846,44,sales/marketing,M,chasing+amy+1997,3.0
+47514,42,retired,M,microcosmos+1996,3.64
+47514,42,retired,M,miracle+on+34th+street+1947,3.64
+47514,42,retired,M,stalingrad+1993,5.0
+47514,42,retired,M,the+commitments+1991,4.0
+122983,44,sales/marketing,M,paper+moon+1973,4.0
+122983,44,sales/marketing,M,hugo+2011,4.0
+122983,44,sales/marketing,M,final+destination+2000,3.64
+43929,43,executive/managerial,M,the+terminator+1984,2.0
+43929,43,executive/managerial,M,the+fly+1958,4.0
+135910,50,academic/educator,F,panic+2000,5.0
+135910,50,academic/educator,F,sense+and+sensibility+1995,5.0
+135910,50,academic/educator,F,moonlight+mile+2002,5.0
+135910,50,academic/educator,F,notting+hill+1999,5.0
+67785,59,lawyer,M,the+caine+mutiny+1954,4.0
+67785,59,lawyer,M,paths+of+glory+1957,3.64
+67785,59,lawyer,M,seven+samurai+1954,4.0
+67785,59,lawyer,M,the+maltese+falcon+1941,3.0
+202007,50,artist,M,deceiver+1997,3.64
+202007,50,artist,M,born+yesterday+1950,3.64
+202007,50,artist,M,the+new+age+1994,3.64
+202007,50,artist,M,crimes+of+passion+1984,3.0
+76500,47,artist,F,hedwig+and+the+angry+inch+2001,5.0
+76500,47,artist,F,silk+stockings+1957,5.0
+76500,47,artist,F,orgazmo+1997,3.0
+196905,51,executive/managerial,M,moonstruck+1987,4.0
+196905,51,executive/managerial,M,road+trip+2000,1.0
+196905,51,executive/managerial,M,enemy+at+the+gates+2001,3.0
+196905,51,executive/managerial,M,black+dog+1998,1.0
+17871,42,sales/marketing,M,the+usual+suspects+1995,3.64
+17871,42,sales/marketing,M,clerks+1994,4.0
+17871,42,sales/marketing,M,terminator+salvation+2009,4.0
+17871,42,sales/marketing,M,eagle+eye+2008,3.0
+113721,50,other or not specified,F,dog+day+afternoon+1975,2.0
+147756,58,doctor/health care,M,the+shawshank+redemption+1994,5.0
+147756,58,doctor/health care,M,the+imitation+game+2014,4.0
+147756,58,doctor/health care,M,the+illusionist+2006,3.0
+202523,52,executive/managerial,M,star+trek+ii+the+wrath+of+khan+1982,5.0
+59414,42,clerical/admin,M,Unknown,3.63
+59414,42,clerical/admin,M,the+social+network+2010,3.0
+63138,49,scientist,F,spring_+summer_+fall_+winter...+and+spring+2003,4.0
+63138,49,scientist,F,cold+comfort+farm+1995,1.0
+63138,49,scientist,F,aguirre+the+wrath+of+god+1972,3.64
+63138,49,scientist,F,a+taxing+woman+1987,5.0
+172879,53,academic/educator,M,cinema+paradiso+1988,5.0
+172879,53,academic/educator,M,three+colors+white+1994,5.0
+172879,53,academic/educator,M,the+big+chill+1983,3.63
+154943,51,other or not specified,M,hamlet+1996,3.0
+154943,51,other or not specified,M,young+guns+1988,3.63
+154943,51,other or not specified,M,jfk+1991,3.0
+154943,51,other or not specified,M,the+running+man+1987,4.0
+209534,50,other or not specified,M,body+heat+1981,5.0
+209534,50,other or not specified,M,l.a.+confidential+1997,5.0
+209534,50,other or not specified,M,con+air+1997,3.63
+209534,50,other or not specified,M,the+39+steps+1935,4.0
+35787,46,self-employed,F,house+of+wax+1953,3.63
+35787,46,self-employed,F,crazy+heart+2009,3.63
+17907,50,executive/managerial,M,bride+of+frankenstein+1935,4.0
+17907,50,executive/managerial,M,out+of+the+past+1947,3.63
+17907,50,executive/managerial,M,my+cousin+vinny+1992,3.0
+17907,50,executive/managerial,M,north+by+northwest+1959,5.0
+136134,44,executive/managerial,M,the+mask+1994,3.0
+136134,44,executive/managerial,M,batman+1989,4.0
+136134,44,executive/managerial,M,in+the+name+of+the+father+1993,4.0
+43500,46,other or not specified,F,sunset+boulevard+1950,3.63
+43500,46,other or not specified,F,harvey+1950,4.0
+43500,46,other or not specified,F,lone+star+1996,3.0
+37644,44,executive/managerial,M,babe+1995,3.63
+37644,44,executive/managerial,M,batman+1989,3.0
+165240,52,sales/marketing,F,big+night+1996,4.0
+165240,52,sales/marketing,F,snow+white+and+the+seven+dwarfs+1937,3.0
+165240,52,sales/marketing,F,ill+cry+tomorrow+1955,4.0
+165240,52,sales/marketing,F,on+a+clear+day+you+can+see+forever+1970,3.63
+205855,58,retired,F,harry+potter+and+the+philosophers+stone+2001,1.0
+26515,59,retired,M,james+and+the+giant+peach+1996,3.63
+26515,59,retired,M,nick+of+time+1995,5.0
+26515,59,retired,M,homeward+bound+ii+lost+in+san+francisco+1996,3.63
+26515,59,retired,M,vampire+in+brooklyn+1995,2.0
+38399,47,academic/educator,F,manhattan+1979,4.0
+38399,47,academic/educator,F,happiness+1998,4.0
+38399,47,academic/educator,F,mr.+death+the+rise+and+fall+of+fred+a.+leuchter_+jr.+1999,3.63
+38399,47,academic/educator,F,little+shop+of+horrors+1986,3.63
+29723,43,academic/educator,F,the+mask+1994,4.0
+29723,43,academic/educator,F,forrest+gump+1994,3.63
+29723,43,academic/educator,F,waterworld+1995,5.0
+29723,43,academic/educator,F,whats+love+got+to+do+with+it+1993,3.63
+147164,44,executive/managerial,F,taxi+driver+1976,3.63
+147164,44,executive/managerial,F,midnight+express+1978,4.0
+147164,44,executive/managerial,F,to+kill+a+mockingbird+1962,5.0
+173018,44,lawyer,M,victorvictoria+1982,3.63
+173018,44,lawyer,M,halloween+1978,5.0
+173018,44,lawyer,M,bachelor+party+1984,3.63
+86159,41,other or not specified,F,tucker+and+dale+vs+evil+2010,2.0
+86159,41,other or not specified,F,proof+2005,3.0
+86159,41,other or not specified,F,incendies+2010,4.0
+86159,41,other or not specified,F,manhattan+1979,3.63
+18761,51,academic/educator,F,dead+poets+society+1989,3.0
+18761,51,academic/educator,F,four+weddings+and+a+funeral+1994,3.0
+210245,44,sales/marketing,M,indiana+jones+and+the+last+crusade+1989,3.63
+210245,44,sales/marketing,M,land+of+the+dead+2005,1.0
+210245,44,sales/marketing,M,in+the+loop+2009,3.63
+210245,44,sales/marketing,M,the+dark+knight+rises+2012,3.0
+84381,55,scientist,F,homeward+bound+the+incredible+journey+1993,3.0
+84381,55,scientist,F,the+umbrellas+of+cherbourg+1964,3.0
+84381,55,scientist,F,somewhere+in+time+1980,2.0
+84381,55,scientist,F,Unknown,5.0
+47254,45,writer,F,startup.com+2001,3.63
+47254,45,writer,F,paradise+lost+the+child+murders+at+robin+hood+hills+1996,3.63
+47254,45,writer,F,looking+for+richard+1996,3.63
+47254,45,writer,F,for+all+mankind+1989,3.63
+199297,46,retired,M,lara+croft+tomb+raider+2001,1.0
+199297,46,retired,M,three+amigos+1986,3.63
+141461,42,sales/marketing,M,spider-man+3+2007,3.63
+141461,42,sales/marketing,M,the+aviator+2004,3.0
+141461,42,sales/marketing,M,the+jacket+2005,4.0
+141461,42,sales/marketing,M,french+kiss+1995,3.0
+166446,47,academic/educator,M,dog+day+afternoon+1975,4.0
+166446,47,academic/educator,M,the+opposite+of+sex+1998,3.0
+119367,41,artist,M,in+the+realms+of+the+unreal+2004,5.0
+119367,41,artist,M,the+ox-bow+incident+1943,4.0
+119367,41,artist,M,leaving+las+vegas+1995,3.63
+119367,41,artist,M,affliction+1997,3.0
+91458,50,executive/managerial,M,pulp+fiction+1994,4.0
+91458,50,executive/managerial,M,the+young+poisoners+handbook+1995,3.63
+91458,50,executive/managerial,M,clear+and+present+danger+1994,5.0
+91458,50,executive/managerial,M,while+you+were+sleeping+1995,4.0
+92165,55,self-employed,M,being+there+1979,4.0
+92165,55,self-employed,M,the+usual+suspects+1995,4.0
+92165,55,self-employed,M,october+sky+1999,3.63
+92165,55,self-employed,M,saturday+night+fever+1977,3.0
+15776,46,programmer,M,the+matrix+1999,5.0
+15776,46,programmer,M,the+truman+show+1998,5.0
+206920,57,executive/managerial,M,godzilla+1998,2.0
+206920,57,executive/managerial,M,the+trial+1962,3.63
+206920,57,executive/managerial,M,blue+velvet+1986,3.63
+206920,57,executive/managerial,M,andrei+rublev+1966,5.0
+23821,50,clerical/admin,M,a+goofy+movie+1995,3.63
+23821,50,clerical/admin,M,life+is+beautiful+1997,5.0
+23821,50,clerical/admin,M,drop+dead+gorgeous+1999,4.0
+23821,50,clerical/admin,M,american+beauty+1999,3.63
+142141,42,executive/managerial,F,cruel+intentions+1999,4.0
+142141,42,executive/managerial,F,insomnia+2002,4.0
+76486,42,sales/marketing,M,rat+race+2001,3.63
+76486,42,sales/marketing,M,the+abyss+1989,3.0
+76486,42,sales/marketing,M,four+weddings+and+a+funeral+1994,3.0
+3927,43,sales/marketing,M,the+pest+1997,4.0
+3927,43,sales/marketing,M,disclosure+1994,3.0
+3927,43,sales/marketing,M,lethal+weapon+2+1989,3.0
+3927,43,sales/marketing,M,full+metal+jacket+1987,3.0
+174827,43,executive/managerial,M,the+mask+1994,1.0
+138103,42,sales/marketing,M,get+the+gringo+2012,4.0
+138103,42,sales/marketing,M,doctor+who+the+time+of+the+doctor+2013,3.63
+57008,53,academic/educator,M,the+caine+mutiny+1954,4.0
+57008,53,academic/educator,M,holes+2003,3.0
+57008,53,academic/educator,M,anger+management+2003,3.0
+57008,53,academic/educator,M,monty+python+and+the+holy+grail+1975,4.0
+213539,42,academic/educator,F,titanic+1953,3.0
+213539,42,academic/educator,F,on+the+waterfront+1954,4.0
+213539,42,academic/educator,F,the+dark+knight+2008,3.0
+213539,42,academic/educator,F,the+boy+in+the+striped+pyjamas+2008,4.0
+11895,41,retired,F,gods+and+monsters+1998,4.0
+11895,41,retired,F,dead+calm+1989,3.63
+11895,41,retired,F,arlington+road+1999,3.63
+172046,52,academic/educator,F,big+night+1996,4.0
+172046,52,academic/educator,F,microcosmos+1996,3.63
+172046,52,academic/educator,F,the+candidate+1972,5.0
+135839,55,homemaker,M,a+fistful+of+dollars+1964,1.0
+135839,55,homemaker,M,the+man+in+the+white+suit+1951,4.0
+153553,47,sales/marketing,M,keeping+the+faith+2000,4.0
+153553,47,sales/marketing,M,you+only+live+twice+1967,4.0
+153553,47,sales/marketing,M,spider-man+2002,4.0
+153553,47,sales/marketing,M,a+history+of+violence+2005,4.0
+43496,43,executive/managerial,M,speed+1994,4.0
+43496,43,executive/managerial,M,goldeneye+1995,3.0
+43496,43,executive/managerial,M,eraser+1996,4.0
+64737,53,executive/managerial,M,the+great+santini+1979,4.0
+64737,53,executive/managerial,M,when+harry+met+sally...+1989,3.0
+64737,53,executive/managerial,M,chariots+of+fire+1981,4.0
+64737,53,executive/managerial,M,the+killing+fields+1984,5.0
+137664,54,self-employed,F,south+pacific+1958,4.0
+137664,54,self-employed,F,the+producers+1967,5.0
+137664,54,self-employed,F,the+big+lebowski+1998,3.64
+137664,54,self-employed,F,hammett+1982,4.0
+614,45,clerical/admin,M,ghostbusters+1984,4.0
+614,45,clerical/admin,M,the+rescuers+down+under+1990,3.0
+614,45,clerical/admin,M,cocoon+1985,3.63
+614,45,clerical/admin,M,alien+1979,3.0
+213965,44,academic/educator,M,sideways+2004,5.0
+213965,44,academic/educator,M,the+fog+of+war+2003,4.0
+3689,55,executive/managerial,M,geronimo+an+american+legend+1993,4.0
+3689,55,executive/managerial,M,the+good_+the+bad+and+the+ugly+1966,3.0
+3689,55,executive/managerial,M,unforgiven+1992,4.0
+3689,55,executive/managerial,M,davy+crockett_+king+of+the+wild+frontier+1955,3.63
+155630,49,college/grad student,F,the+princess+diaries+2001,3.63
+155630,49,college/grad student,F,the+godfather+1972,1.0
+155630,49,college/grad student,F,torn+curtain+1966,5.0
+155630,49,college/grad student,F,cats++dogs+2001,4.0
+212649,44,executive/managerial,M,the+client+1994,3.63
+212649,44,executive/managerial,M,grumpier+old+men+1995,3.63
+212649,44,executive/managerial,M,armageddon+1998,3.63
+212649,44,executive/managerial,M,the+lord+of+the+rings+the+fellowship+of+the+ring+2001,4.0
+41746,51,academic/educator,F,four+weddings+and+a+funeral+1994,5.0
+41746,51,academic/educator,F,the+long+kiss+goodnight+1996,3.63
+41746,51,academic/educator,F,independence+day+1996,3.0
+41746,51,academic/educator,F,once+were+warriors+1994,5.0
+74508,58,retired,F,harry+potter+and+the+philosophers+stone+2001,1.0
+56961,46,sales/marketing,M,dead+poets+society+1989,2.0
+151395,45,other or not specified,F,parenthood+1989,4.0
+151395,45,other or not specified,F,death+to+smoochy+2002,1.0
+151395,45,other or not specified,F,a+fish+called+wanda+1988,4.0
+151395,45,other or not specified,F,bubba+ho-tep+2002,3.63
+196049,45,academic/educator,M,the+godfather+1972,4.0
+196049,45,academic/educator,M,leon+the+professional+1994,4.0
+139941,50,academic/educator,M,the+best+years+of+our+lives+1946,4.0
+179584,44,executive/managerial,M,true+lies+1994,3.64
+741,52,sales/marketing,M,great+expectations+1946,5.0
+741,52,sales/marketing,M,the+statement+2003,4.0
+741,52,sales/marketing,M,pushing+tin+1999,5.0
+741,52,sales/marketing,M,they+were+expendable+1945,5.0
+16424,55,self-employed,M,home+for+the+holidays+1995,3.0
+16424,55,self-employed,M,wings+of+desire+1987,3.63
+16424,55,self-employed,M,batman+1989,3.0
+16424,55,self-employed,M,belle+de+jour+1967,5.0
+21777,44,executive/managerial,M,butch+cassidy+and+the+sundance+kid+1969,3.64
+21777,44,executive/managerial,M,this+is+spinal+tap+1984,5.0
+21777,44,executive/managerial,M,star+trek+ii+the+wrath+of+khan+1982,4.0
+209292,43,writer,M,apocalypse+now+1979,3.64
+209292,43,writer,M,jesus+camp+2006,3.64
+209292,43,writer,M,open+your+eyes+1997,4.0
+209292,43,writer,M,falling+down+1993,3.64
+58478,53,executive/managerial,M,double+indemnity+1944,3.63
+76496,53,executive/managerial,M,the+client+1994,3.63
+76496,53,executive/managerial,M,free+willy+1993,3.63
+76496,53,executive/managerial,M,batman+1989,3.63
+110135,47,college/grad student,M,miracle+on+34th+street+1994,3.63
+110135,47,college/grad student,M,the+incredibles+2004,4.0
+62788,58,retired,F,multiplicity+1996,1.0
+62788,58,retired,F,west+side+story+1961,3.63
+62788,58,retired,F,genghis+blues+1999,4.0
+62788,58,retired,F,the+craft+1996,2.0
+106146,48,academic/educator,F,lost+in+translation+2003,3.63
+117493,43,writer,M,the+new+world+2005,5.0
+117493,43,writer,M,the+thin+red+line+1998,4.0
+117493,43,writer,M,broken+flowers+2005,4.0
+117493,43,writer,M,primary+colors+1998,5.0
+19883,53,sales/marketing,F,paths+of+glory+1957,3.0
+19883,53,sales/marketing,F,white+christmas+1954,4.0
+87058,41,college/grad student,F,love+in+the+afternoon+1957,3.63
+87058,41,college/grad student,F,the+princess+bride+1987,5.0
+87058,41,college/grad student,F,the+year+of+living+dangerously+1982,3.0
+87058,41,college/grad student,F,an+affair+to+remember+1957,4.0
+66723,43,other or not specified,F,house+of+games+1987,3.0
+66723,43,other or not specified,F,rosemarys+baby+1968,5.0
+66723,43,other or not specified,F,the+insider+1999,4.0
+66723,43,other or not specified,F,fantasia+2000+1999,4.0
+67863,53,executive/managerial,M,star+wars+episode+i+-+the+phantom+menace+1999,4.0
+67863,53,executive/managerial,M,the+outlaw+josey+wales+1976,4.0
+67863,53,executive/managerial,M,unforgiven+1992,4.0
+96389,53,scientist,F,my+life+as+a+dog+1985,5.0
+96389,53,scientist,F,the+firm+1993,3.63
+96389,53,scientist,F,on+golden+pond+1981,4.0
+142746,42,sales/marketing,M,rocky+1976,4.0
+142746,42,sales/marketing,M,death+becomes+her+1992,3.63
+207828,55,executive/managerial,F,disclosure+1994,3.0
+207828,55,executive/managerial,F,the+firm+1993,3.63
+207828,55,executive/managerial,F,sleepless+in+seattle+1993,4.0
+207828,55,executive/managerial,F,showgirls+1995,1.0
+151869,42,scientist,M,free+willy+1993,3.63
+151869,42,scientist,M,twister+1996,5.0
+151869,42,scientist,M,the+flintstones+1994,1.0
+151869,42,scientist,M,interview+with+the+vampire+1994,3.63
+107258,58,retired,M,the+rock+1996,4.0
+107258,58,retired,M,being+john+malkovich+1999,5.0
+107258,58,retired,M,defending+your+life+1991,3.0
+156046,50,other or not specified,F,dial+m+for+murder+1954,3.0
+156046,50,other or not specified,F,a+grand+day+out+1990,3.63
+156046,50,other or not specified,F,heathers+1988,3.0
+75049,52,academic/educator,M,the+man+from+snowy+river+1982,4.0
+75049,52,academic/educator,M,roger++me+1989,4.0
+75049,52,academic/educator,M,the+godfather+1972,3.0
+75049,52,academic/educator,M,the+empire+strikes+back+1980,4.0
+149711,51,executive/managerial,F,in+the+name+of+the+father+1993,4.0
+149711,51,executive/managerial,F,living+out+loud+1998,3.63
+149711,51,executive/managerial,F,Unknown,4.0
+149711,51,executive/managerial,F,the+unbearable+lightness+of+being+1988,3.63
+146181,53,executive/managerial,M,city+slickers+ii+the+legend+of+curlys+gold+1994,3.0
+26863,47,sales/marketing,M,charlies+angels+2000,4.0
+121689,60,retired,F,moonstruck+1987,3.63
+214312,51,self-employed,F,2001+a+space+odyssey+1968,3.0
+214312,51,self-employed,F,the+competition+1980,3.0
+214312,51,self-employed,F,out+of+the+past+1947,3.63
+69473,48,sales/marketing,M,batman+forever+1995,3.63
+110453,54,executive/managerial,M,the+big+lebowski+1998,5.0
+95913,46,homemaker,M,platoon+1986,3.63
+95913,46,homemaker,M,run+silent_+run+deep+1958,4.0
+95913,46,homemaker,M,the+human+condition+i+no+greater+love+1959,1.0
+95913,46,homemaker,M,1941+1979,4.0
+170816,44,sales/marketing,M,swimming+pool+2003,3.0
+170816,44,sales/marketing,M,cabin+fever+2003,2.0
+170816,44,sales/marketing,M,the+fly+1986,4.0
+109548,59,retired,M,titanic+1997,3.63
+109548,59,retired,M,crocodile+dundee+1986,3.0
+109548,59,retired,M,the+silence+of+the+lambs+1991,4.0
+115285,50,academic/educator,F,conspiracy+theory+1997,4.0
+115285,50,academic/educator,F,shes+gotta+have+it+1986,5.0
+115285,50,academic/educator,F,back+to+the+future+part+iii+1990,2.0
+115285,50,academic/educator,F,lady+and+the+tramp+1955,4.0
+113806,44,sales/marketing,M,saints+and+soldiers+2003,4.0
+113806,44,sales/marketing,M,deuce+bigalow+european+gigolo+2005,3.0
+109191,41,unemployed,M,the+crow+1994,5.0
+109191,41,unemployed,M,the+towering+inferno+1974,4.0
+109191,41,unemployed,M,dazed+and+confused+1993,1.0
+109191,41,unemployed,M,mission+to+mars+2000,3.0
+6808,46,academic/educator,F,sixteen+candles+1984,3.63
+6808,46,academic/educator,F,harold+and+maude+1971,5.0
+164430,41,lawyer,M,hanna+2011,4.0
+164430,41,lawyer,M,rango+2011,4.0
+164430,41,lawyer,M,edge+of+tomorrow+2014,3.63
+164430,41,lawyer,M,the+man+from+earth+2007,5.0
+168474,47,academic/educator,F,amlie+2001,3.63
+168474,47,academic/educator,F,54+1998,3.0
+168474,47,academic/educator,F,love+actually+2003,3.63
+168474,47,academic/educator,F,i+heart+huckabees+2004,4.0
+33558,41,other or not specified,F,tommy+boy+1995,3.63
+33558,41,other or not specified,F,clear+and+present+danger+1994,3.63
+33558,41,other or not specified,F,the+american+president+1995,5.0
+33558,41,other or not specified,F,only+you+1994,3.0
+16619,55,doctor/health care,M,breakfast+at+tiffanys+1961,5.0
+16619,55,doctor/health care,M,anna+and+the+king+1999,2.0
+16619,55,doctor/health care,M,american+beauty+1999,5.0
+69102,54,executive/managerial,M,the+lion+king+1994,5.0
+69102,54,executive/managerial,M,my+fair+lady+1964,3.0
+69102,54,executive/managerial,M,charlottes+web+1973,5.0
+69102,54,executive/managerial,M,rebel+without+a+cause+1955,5.0
+113279,52,retired,M,paper+moon+1973,4.0
+113279,52,retired,M,east+of+eden+1955,3.63
+113279,52,retired,M,his+girl+friday+1940,4.0
+113279,52,retired,M,diabolique+1955,5.0
+64882,45,clerical/admin,M,the+conversation+1974,4.0
+64882,45,clerical/admin,M,little+miss+sunshine+2006,3.0
+64882,45,clerical/admin,M,robin+hood+2010,4.0
+64882,45,clerical/admin,M,noah+2014,3.0
+169676,41,retired,M,young+frankenstein+1974,5.0
+169676,41,retired,M,the+importance+of+being+earnest+2002,3.0
+169676,41,retired,M,blow-up+1966,3.63
+195323,42,homemaker,F,the+fugitive+1993,4.0
+195323,42,homemaker,F,maverick+1994,3.63
+195323,42,homemaker,F,batman+forever+1995,3.0
+124477,44,sales/marketing,M,the+terminator+1984,3.63
+124477,44,sales/marketing,M,the+frighteners+1996,4.0
+127221,53,academic/educator,F,ponette+1996,5.0
+9059,59,artist,M,the+shawshank+redemption+1994,3.63
+9059,59,artist,M,the+indian+in+the+cupboard+1995,3.0
+9059,59,artist,M,the+bourne+ultimatum+2007,5.0
+9059,59,artist,M,the+godfather+1972,5.0
+154946,52,self-employed,M,to+kill+a+mockingbird+1962,3.63
+154946,52,self-employed,M,the+fifth+element+1997,1.0
+154946,52,self-employed,M,glory+1989,3.63
+154946,52,self-employed,M,the+princess+bride+1987,3.63
+194888,47,doctor/health care,F,exotica+1994,3.0
+194888,47,doctor/health care,F,four+weddings+and+a+funeral+1994,4.0
+194888,47,doctor/health care,F,forrest+gump+1994,4.0
+194888,47,doctor/health care,F,babe+1995,4.0
+66810,46,writer,M,king+ralph+1991,3.0
+66810,46,writer,M,unforgettable+1996,2.0
+66810,46,writer,M,short+cuts+1993,5.0
+137772,53,academic/educator,M,a+room+with+a+view+1985,3.0
+137772,53,academic/educator,M,picnic+1955,3.63
+65401,45,writer,F,the+girl+who+played+with+fire+2009,4.0
+65401,45,writer,F,my+left+foot+the+story+of+christy+brown+1989,3.0
+65401,45,writer,F,arachnophobia+1990,1.0
+67955,43,executive/managerial,F,sense+and+sensibility+1995,5.0
+176430,49,clerical/admin,M,inside+man+2006,5.0
+176430,49,clerical/admin,M,the+mask+1994,3.63
+176430,49,clerical/admin,M,resident+evil+2002,4.0
+176430,49,clerical/admin,M,i_+robot+2004,4.0
+42222,54,academic/educator,M,heat+1995,4.0
+42222,54,academic/educator,M,l.a.+confidential+1997,3.63
+1899,55,other or not specified,F,some+like+it+hot+1959,4.0
+1899,55,other or not specified,F,the+lord+of+the+rings+the+two+towers+2002,3.0
+201529,55,executive/managerial,M,back+to+the+future+part+iii+1990,4.0
+201529,55,executive/managerial,M,palindromes+2004,4.0
+201529,55,executive/managerial,M,just+married+2003,3.0
+201529,55,executive/managerial,M,the+notebook+2004,4.0
+40432,46,other or not specified,M,the+fog+of+war+2003,3.63
+40432,46,other or not specified,M,spellbound+2002,5.0
+40432,46,other or not specified,M,bill+cunningham+new+york+2010,3.63
+128061,44,college/grad student,M,the+patriot+2000,3.63
+128061,44,college/grad student,M,the+mask+of+zorro+1998,4.0
+128061,44,college/grad student,M,spider-man+2002,4.0
+128061,44,college/grad student,M,hotel+rwanda+2004,4.0
+211987,53,self-employed,F,immortal+beloved+1994,2.0
+211987,53,self-employed,F,shakespeare+in+love+1998,2.0
+211987,53,self-employed,F,sleepless+in+seattle+1993,4.0
+211987,53,self-employed,F,tootsie+1982,5.0
+8963,45,unemployed,M,kandahar+2001,3.63
+8963,45,unemployed,M,charlie+wilsons+war+2007,2.0
+8963,45,unemployed,M,the+lincoln+lawyer+2011,3.63
+8963,45,unemployed,M,calendar+girls+2003,3.0
+31793,51,self-employed,F,paradise+road+1997,4.0
+31793,51,self-employed,F,malena+2000,3.63
+31793,51,self-employed,F,bound+1996,3.0
+31793,51,self-employed,F,thelma++louise+1991,4.0
+176757,41,scientist,M,die+hard+1988,3.63
+176757,41,scientist,M,the+iron+giant+1999,3.63
+176757,41,scientist,M,the+bridge+on+the+river+kwai+1957,4.0
+176757,41,scientist,M,henry+v+1944,3.63
+108931,48,college/grad student,M,fargo+1996,3.63
+108931,48,college/grad student,M,caf+au+lait+1993,3.63
+108931,48,college/grad student,M,secrets++lies+1996,5.0
+148643,53,writer,M,l.a.+confidential+1997,3.63
+148643,53,writer,M,arsenic+and+old+lace+1944,3.63
+148643,53,writer,M,in+the+heat+of+the+night+1967,4.0
+1907,59,retired,F,harry+potter+and+the+deathly+hallows+part+2+2011,4.0
+1907,59,retired,F,amlie+2001,5.0
+48319,41,other or not specified,F,fletch+1985,1.0
+48319,41,other or not specified,F,the+lives+of+others+2006,5.0
+160922,56,retired,F,theres+something+about+mary+1998,3.0
+160922,56,retired,F,how+to+make+an+american+quilt+1995,3.63
+160922,56,retired,F,gosford+park+2001,3.63
+160922,56,retired,F,the+secret+garden+1993,4.0
+156848,42,sales/marketing,M,wanted+2008,3.63
+156848,42,sales/marketing,M,the+fourth+kind+2009,3.63
+156848,42,sales/marketing,M,the+white+countess+2005,3.0
+156848,42,sales/marketing,M,yellowbeard+1983,3.63
+94278,42,artist,M,bill+cosby+himself+1983,4.0
+94278,42,artist,M,gattaca+1997,5.0
+94278,42,artist,M,the+fox+and+the+hound+1981,4.0
+94278,42,artist,M,dennis+the+menace+1993,3.0
+22352,43,artist,F,shrek+the+third+2007,3.63
+22352,43,artist,F,the+wackness+2008,3.0
+22352,43,artist,F,rudolph_+the+red-nosed+reindeer+1964,3.63
+22352,43,artist,F,the+clearing+2004,3.0
+130763,55,artist,F,elizabeth+1998,4.0
+130763,55,artist,F,strictly+ballroom+1992,3.63
+130763,55,artist,F,the+help+2011,5.0
+130763,55,artist,F,for+a+few+dollars+more+1965,4.0
+214557,42,self-employed,M,a+league+of+their+own+1992,4.0
+214557,42,self-employed,M,the+bishops+wife+1947,4.0
+214557,42,self-employed,M,mon+oncle+1958,1.0
+214557,42,self-employed,M,beavis+and+butt-head+do+america+1996,1.0
+22474,59,retired,F,mississippi+masala+1991,3.63
+22474,59,retired,F,butterfly+1999,4.0
+22474,59,retired,F,being+john+malkovich+1999,3.63
+22474,59,retired,F,its+a+wonderful+life+1946,3.0
+208937,43,sales/marketing,F,meatballs+1979,2.0
+208937,43,sales/marketing,F,prefontaine+1997,4.0
+146924,44,retired,F,forrest+gump+1994,3.63
+146924,44,retired,F,american+beauty+1999,5.0
+146924,44,retired,F,the+addams+family+1991,3.0
+146924,44,retired,F,a+grand+day+out+1990,5.0
+189620,45,writer,F,thirty+two+short+films+about+glenn+gould+1993,3.63
+189620,45,writer,F,the+wonderful_+horrible+life+of+leni+riefenstahl+1993,4.0
+189620,45,writer,F,stop+making+sense+1984,5.0
+189620,45,writer,F,rain+man+1988,3.0
+196562,48,scientist,M,a+fish+called+wanda+1988,3.0
+146357,42,sales/marketing,M,escape+from+alcatraz+1979,3.63
+6887,41,executive/managerial,M,while+you+were+sleeping+1995,3.63
+201615,53,retired,F,kiss+the+girls+1997,4.0
+201615,53,retired,F,young+guns+1988,3.63
+158186,43,executive/managerial,M,cliffhanger+1993,5.0
+158186,43,executive/managerial,M,disclosure+1994,3.63
+158186,43,executive/managerial,M,in+the+line+of+fire+1993,5.0
+158186,43,executive/managerial,M,sense+and+sensibility+1995,3.0
+148179,43,executive/managerial,M,terminator+2+judgment+day+1991,3.63
+148179,43,executive/managerial,M,the+specialist+1994,2.0
+128494,44,executive/managerial,M,dave+1993,4.0
+128494,44,executive/managerial,M,maverick+1994,3.63
+128494,44,executive/managerial,M,little+buddha+1993,3.0
+128494,44,executive/managerial,M,first+knight+1995,3.63
+31882,58,retired,F,the+silence+of+the+lambs+1991,5.0
+31882,58,retired,F,aladdin+1992,3.63
+31882,58,retired,F,the+waterboy+1998,2.0
+31882,58,retired,F,the+little+mermaid+1989,3.63
+53640,44,sales/marketing,M,the+mighty+1998,4.0
+53640,44,sales/marketing,M,angels++demons+2009,3.0
+53640,44,sales/marketing,M,nine+queens+2000,4.0
+53640,44,sales/marketing,M,breaking+the+waves+1996,3.63
+165716,41,homemaker,F,apollo+13+1995,5.0
+165716,41,homemaker,F,jumanji+1995,4.0
+165716,41,homemaker,F,father+of+the+bride+part+ii+1995,3.0
+165716,41,homemaker,F,the+santa+clause+1994,3.63
+72254,44,technician/engineer,M,the+ghost+and+mrs.+muir+1947,4.0
+72254,44,technician/engineer,M,dr.+strangelove+or+how+i+learned+to+stop+worrying+and+love+the+bomb+1964,5.0
+136333,44,other or not specified,M,forces+of+nature+1999,3.63
+136333,44,other or not specified,M,the+manchurian+candidate+1962,3.63
+136333,44,other or not specified,M,return+of+the+jedi+1983,3.0
+136333,44,other or not specified,M,jurassic+park+1993,3.0
+21358,43,homemaker,F,disclosure+1994,3.0
+21358,43,homemaker,F,multiplicity+1996,4.0
+21358,43,homemaker,F,whats+eating+gilbert+grape+1993,4.0
+21358,43,homemaker,F,stargate+1994,1.0
+20845,41,artist,M,attack+of+the+killer+tomatoes+1978,4.0
+85204,44,homemaker,F,ghost+1990,3.63
+85204,44,homemaker,F,the+mask+1994,2.0
+22311,59,clerical/admin,F,high+sierra+1941,3.0
+22311,59,clerical/admin,F,to+catch+a+thief+1955,5.0
+22311,59,clerical/admin,F,monty+python+and+the+holy+grail+1975,3.63
+22311,59,clerical/admin,F,willy+wonka++the+chocolate+factory+1971,3.0
+50731,52,self-employed,F,edtv+1999,2.0
+50731,52,self-employed,F,dave+1993,3.63
+50731,52,self-employed,F,sliding+doors+1998,3.63
+50731,52,self-employed,F,rob+roy+1995,4.0
+94013,41,sales/marketing,M,chinatown+1974,5.0
+94013,41,sales/marketing,M,mission+to+mars+2000,3.63
+94013,41,sales/marketing,M,spy+game+2001,4.0
+94013,41,sales/marketing,M,bushs+brain+2004,4.0
+6987,43,executive/managerial,M,beverly+hills+cop+iii+1994,4.0
+6987,43,executive/managerial,M,gone+with+the+wind+1939,4.0
+78878,57,executive/managerial,F,the+doors+1991,3.0
+78878,57,executive/managerial,F,schindlers+list+1993,3.0
+78878,57,executive/managerial,F,la+strada+1954,3.63
+78878,57,executive/managerial,F,all+about+my+mother+1999,3.63
+63718,44,self-employed,M,a+fish+called+wanda+1988,3.0
+63718,44,self-employed,M,do+the+right+thing+1989,5.0
+63718,44,self-employed,M,groundhog+day+1993,4.0
+195766,51,academic/educator,F,the+truth+about+cats++dogs+1996,3.63
+93319,45,scientist,F,walk+the+line+2005,4.0
+93319,45,scientist,F,shrek+2001,3.63
+93319,45,scientist,F,when+harry+met+sally...+1989,5.0
+93319,45,scientist,F,stardust+2007,3.63
+64430,41,artist,M,all+the+right+moves+1983,3.63
+64430,41,artist,M,the+mexican+2001,4.0
+64430,41,artist,M,witness+for+the+prosecution+1957,3.63
+64430,41,artist,M,star+trek+ii+the+wrath+of+khan+1982,4.0
+127203,44,tradesman/craftsman,M,the+love+bug+1968,3.63
+127203,44,tradesman/craftsman,M,2001+a+space+odyssey+1968,5.0
+127203,44,tradesman/craftsman,M,dr.+strangelove+or+how+i+learned+to+stop+worrying+and+love+the+bomb+1964,5.0
+127203,44,tradesman/craftsman,M,son+of+flubber+1963,4.0
+49102,54,executive/managerial,M,the+evil+dead+1981,3.0
+49102,54,executive/managerial,M,close+encounters+of+the+third+kind+1977,5.0
+173010,47,sales/marketing,M,weekend+at+bernies+1989,3.0
+173010,47,sales/marketing,M,the+living+daylights+1987,4.0
+173010,47,sales/marketing,M,back+to+the+future+part+iii+1990,3.0
+173010,47,sales/marketing,M,madagascar+2005,3.0
+55390,50,retired,F,delicatessen+1991,3.63
+55390,50,retired,F,best+in+show+2000,3.63
+55390,50,retired,F,doctor+zhivago+1965,3.63
+55390,50,retired,F,the+big+chill+1983,5.0
+46753,57,retired,M,mallrats+1995,3.0
+46753,57,retired,M,the+hangover+2009,5.0
+46753,57,retired,M,knocked+up+2007,5.0
+46753,57,retired,M,the+40+year+old+virgin+2005,5.0
+88869,44,college/grad student,M,coneheads+1993,4.0
+88869,44,college/grad student,M,billy+madison+1995,3.63
+88869,44,college/grad student,M,aladdin+1992,5.0
+88869,44,college/grad student,M,the+basketball+diaries+1995,3.63
+203205,43,executive/managerial,M,20_000+leagues+under+the+sea+1954,3.0
+203205,43,executive/managerial,M,dr.+no+1962,3.0
+203205,43,executive/managerial,M,a+fistful+of+dollars+1964,4.0
+124419,50,lawyer,M,laura+1944,5.0
+124419,50,lawyer,M,chinatown+1974,5.0
+124419,50,lawyer,M,the+exorcist+1973,5.0
+124419,50,lawyer,M,a+fistful+of+dollars+1964,3.63
+178114,53,other or not specified,M,the+producers+1967,3.63
+178114,53,other or not specified,M,roger++me+1989,5.0
+178114,53,other or not specified,M,sixteen+candles+1984,3.63
+178114,53,other or not specified,M,crimes+and+misdemeanors+1989,5.0
+153968,57,retired,F,my+best+friends+wedding+1997,3.0
+153968,57,retired,F,sunset+boulevard+1950,5.0
+153968,57,retired,F,the+best+years+of+our+lives+1946,5.0
+153968,57,retired,F,the+right+stuff+1983,3.63
+149394,42,academic/educator,F,immortal+beloved+1994,3.63
+149394,42,academic/educator,F,prt--porter+1994,3.0
+149394,42,academic/educator,F,home+alone+1990,3.63
+149394,42,academic/educator,F,speed+1994,3.0
+139307,41,executive/managerial,M,maverick+1994,4.0
+139307,41,executive/managerial,M,leaving+las+vegas+1995,3.0
+152309,47,other or not specified,F,memento+2000,5.0
+31455,54,executive/managerial,M,willy+wonka++the+chocolate+factory+1971,4.0
+129816,60,executive/managerial,M,home+alone+1990,1.0
+129816,60,executive/managerial,M,forrest+gump+1994,5.0
+33526,52,academic/educator,M,one+hundred+and+one+dalmatians+1961,4.0
+33526,52,academic/educator,M,like+water+for+chocolate+1992,5.0
+33526,52,academic/educator,M,mary+poppins+1964,3.63
+33526,52,academic/educator,M,310+to+yuma+2007,3.63
+210565,59,retired,F,the+wedding+singer+1998,4.0
+210565,59,retired,F,the+truth+about+cats++dogs+1996,5.0
+210565,59,retired,F,blade+1998,4.0
+210565,59,retired,F,the+last+of+the+mohicans+1992,3.0
+60658,41,other or not specified,M,mars+attacks+1996,3.0
+60658,41,other or not specified,M,nell+1994,2.0
+60658,41,other or not specified,M,i.q.+1994,3.0
+60658,41,other or not specified,M,city+slickers+ii+the+legend+of+curlys+gold+1994,3.0
+187483,49,writer,M,the+killing+fields+1984,3.0
+187483,49,writer,M,the+jewel+of+the+nile+1985,3.0
+187483,49,writer,M,chinatown+1974,5.0
+187483,49,writer,M,lawrence+of+arabia+1962,5.0
+113068,49,clerical/admin,F,thirty+two+short+films+about+glenn+gould+1993,5.0
+113068,49,clerical/admin,F,the+maltese+falcon+1941,5.0
+113068,49,clerical/admin,F,apollo+13+1995,3.63
+113068,49,clerical/admin,F,everest+1998,3.0
+128527,43,artist,M,phantasm+1979,5.0
+128527,43,artist,M,friday+the+13th+part+2+1981,2.0
+128527,43,artist,M,the+wolf+man+1941,3.63
+128527,43,artist,M,hellraiser+1987,3.0
+123184,41,technician/engineer,M,se7en+1995,4.0
+123184,41,technician/engineer,M,goodfellas+1990,3.63
+123184,41,technician/engineer,M,lilo++stitch+2002,3.63
+123184,41,technician/engineer,M,dances+with+wolves+1990,4.0
+49149,59,tradesman/craftsman,M,willy+wonka++the+chocolate+factory+1971,3.63
+49149,59,tradesman/craftsman,M,jumanji+1995,3.63
+49149,59,tradesman/craftsman,M,how+to+make+an+american+quilt+1995,3.63
+49149,59,tradesman/craftsman,M,happy+gilmore+1996,3.0
+127764,44,executive/managerial,F,the+thin+man+1934,5.0
+127764,44,executive/managerial,F,all+quiet+on+the+western+front+1930,3.63
+93632,53,scientist,M,notorious+1946,3.63
+93632,53,scientist,M,shane+1953,3.63
+93632,53,scientist,M,fantasia+1940,5.0
+93632,53,scientist,M,lifeboat+1944,2.0
+83496,55,academic/educator,M,fargo+1996,3.63
+83496,55,academic/educator,M,sunset+boulevard+1950,5.0
+83496,55,academic/educator,M,crumb+1994,5.0
+83496,55,academic/educator,M,waiting+for+guffman+1996,3.63
+112670,44,customer service,M,dr.+strangelove+or+how+i+learned+to+stop+worrying+and+love+the+bomb+1964,3.63
+112670,44,customer service,M,westworld+1973,4.0
+112670,44,customer service,M,star+wars+episode+i+-+the+phantom+menace+1999,4.0
+88215,42,executive/managerial,M,dave+1993,4.0
+88215,42,executive/managerial,M,braveheart+1995,3.63
+88215,42,executive/managerial,M,the+shawshank+redemption+1994,5.0
+88215,42,executive/managerial,M,coneheads+1993,3.0
+118020,42,executive/managerial,M,batman+1989,4.0
+118020,42,executive/managerial,M,the+shawshank+redemption+1994,5.0
+118020,42,executive/managerial,M,star+trek+generations+1994,5.0
+118020,42,executive/managerial,M,batman+forever+1995,5.0
+81482,49,academic/educator,F,lock_+stock+and+two+smoking+barrels+1998,5.0
+151880,44,scientist,F,notorious+1946,4.0
+128338,42,academic/educator,F,planes_+trains+and+automobiles+1987,3.0
+157380,47,other or not specified,M,the+bad+lieutenant+port+of+call+-+new+orleans+2009,4.0
+157380,47,other or not specified,M,back+to+the+future+1985,4.0
+157380,47,other or not specified,M,the+secret+garden+1993,3.0
+157380,47,other or not specified,M,dangerous+liaisons+1988,3.63
+70324,42,clerical/admin,M,the+39+steps+1935,5.0
+70324,42,clerical/admin,M,pretty+woman+1990,3.0
+70324,42,clerical/admin,M,the+great+race+1965,2.0
+70324,42,clerical/admin,M,the+mummy+1999,3.0
+93768,55,executive/managerial,M,the+babysitter+1995,3.0
+93768,55,executive/managerial,M,major+payne+1995,3.0
+93768,55,executive/managerial,M,aladdin+1992,4.0
+93768,55,executive/managerial,M,pretty+woman+1990,3.63
+15720,44,executive/managerial,M,showgirls+1995,3.0
+15720,44,executive/managerial,M,first+knight+1995,3.0
+15720,44,executive/managerial,M,a+streetcar+named+desire+1951,4.0
+159616,53,executive/managerial,F,grumpier+old+men+1995,4.0
+159616,53,executive/managerial,F,rear+window+1954,4.0
+25960,43,clerical/admin,F,the+dinner+game+1998,5.0
+25960,43,clerical/admin,F,the+day+after+tomorrow+2004,3.63
+100817,44,executive/managerial,F,ghost+world+2001,5.0
+186232,59,retired,F,tootsie+1982,5.0
+186232,59,retired,F,tea+with+mussolini+1999,3.0
+186232,59,retired,F,youve+got+mail+1998,4.0
+186232,59,retired,F,l.a.+confidential+1997,3.63
+200772,43,sales/marketing,M,the+joy+luck+club+1993,3.63
+200772,43,sales/marketing,M,force+of+evil+1948,3.0
+200772,43,sales/marketing,M,kolya+1996,3.63
+200772,43,sales/marketing,M,jacobs+ladder+1990,3.63
+127684,53,executive/managerial,M,annie+hall+1977,3.0
+133902,55,academic/educator,F,october+sky+1999,3.0
+133902,55,academic/educator,F,good+will+hunting+1997,4.0
+125923,55,executive/managerial,M,fargo+1996,3.0
+125923,55,executive/managerial,M,the+silence+of+the+lambs+1991,3.64
+125923,55,executive/managerial,M,se7en+1995,4.0
+125923,55,executive/managerial,M,the+fugitive+1993,4.0
+57185,43,clerical/admin,M,the+flower+of+my+secret+1995,3.64
+57185,43,clerical/admin,M,alien+1979,3.0
+57185,43,clerical/admin,M,a+goofy+movie+1995,5.0
+145162,55,self-employed,F,breakfast+at+tiffanys+1961,3.0
+145162,55,self-employed,F,the+family+man+2000,3.0
+145162,55,self-employed,F,u-571+2000,2.0
+135407,43,artist,M,american+beauty+1999,4.0
+135407,43,artist,M,rushmore+1998,3.64
+135407,43,artist,M,affliction+1997,5.0
+135407,43,artist,M,l.a.+confidential+1997,5.0
+173779,43,scientist,M,outrageous+fortune+1987,4.0
+173779,43,scientist,M,gremlins+1984,2.0
+173567,52,executive/managerial,M,scream+2+1997,1.0
+176832,47,retired,M,the+killing+fields+1984,3.64
+176832,47,retired,M,the+english+patient+1996,5.0
+176832,47,retired,M,richard+iii+1995,4.0
+176832,47,retired,M,schindlers+list+1993,5.0
+185124,43,executive/managerial,F,the+sixth+sense+1999,5.0
+185124,43,executive/managerial,F,anne+of+the+thousand+days+1969,4.0
+185124,43,executive/managerial,F,the+king+and+i+1956,3.0
+185124,43,executive/managerial,F,august+rush+2007,5.0
+127825,54,sales/marketing,M,the+fugitive+1993,4.0
+130203,46,technician/engineer,F,unknown+pleasures+2002,4.0
+130203,46,technician/engineer,F,vive+lamour+1994,3.64
+130203,46,technician/engineer,F,happy+together+1997,5.0
+130203,46,technician/engineer,F,fallen+angels+1995,4.0
+16488,43,scientist,M,the+commitments+1991,3.0
+16488,43,scientist,M,chicken+run+2000,4.0
+16488,43,scientist,M,the+sting+1973,4.0
+16488,43,scientist,M,the+usual+suspects+1995,5.0
+67296,42,academic/educator,F,an+ideal+husband+1999,4.0
+1921,41,executive/managerial,M,my+fair+lady+1964,1.0
+1921,41,executive/managerial,M,bonnie+and+clyde+1967,4.0
+1921,41,executive/managerial,M,the+pawnbroker+1965,3.0
+1921,41,executive/managerial,M,help+1965,5.0
+143459,41,college/grad student,M,dragonheart+1996,3.0
+143459,41,college/grad student,M,beetlejuice+1988,3.0
+97049,45,homemaker,F,year+of+the+dog+2007,2.0
+97049,45,homemaker,F,the+piano+1993,3.63
+97049,45,homemaker,F,rosemarys+baby+1968,3.63
+97049,45,homemaker,F,dracula+1992,3.0
+36290,51,academic/educator,F,dead+man+walking+1995,3.63
+36290,51,academic/educator,F,big+night+1996,4.0
+36290,51,academic/educator,F,the+king+and+i+1956,4.0
+36290,51,academic/educator,F,being+john+malkovich+1999,3.63
+55291,54,executive/managerial,M,goodfellas+1990,4.0
+55291,54,executive/managerial,M,pulp+fiction+1994,5.0
+168115,46,academic/educator,M,the+matrix+1999,4.0
+168115,46,academic/educator,M,the+war+room+1993,3.64
+88804,43,clerical/admin,M,the+naked+gun+2+the+smell+of+fear+1991,2.0
+88804,43,clerical/admin,M,spy+kids+2001,2.0
+88804,43,clerical/admin,M,a+life+less+ordinary+1997,4.0
+88804,43,clerical/admin,M,dancer+in+the+dark+2000,4.0
+210025,52,executive/managerial,M,star+wars+1977,3.64
+210025,52,executive/managerial,M,the+matrix+1999,5.0
+78492,43,college/grad student,M,all+dogs+go+to+heaven+2+1996,3.0
+78492,43,college/grad student,M,pinocchio+1940,4.0
+78492,43,college/grad student,M,ace+ventura+when+nature+calls+1995,3.63
+78492,43,college/grad student,M,the+brady+bunch+movie+1995,3.63
+170551,43,executive/managerial,M,koyaanisqatsi+1982,3.63
+97613,44,other or not specified,M,meet+the+parents+2000,5.0
+97613,44,other or not specified,M,beavis+and+butt-head+do+america+1996,3.63
+97613,44,other or not specified,M,rudy+1993,3.63
+97613,44,other or not specified,M,major+league+1989,4.0
+175299,48,academic/educator,F,the+rocky+horror+picture+show+1975,3.64
+175299,48,academic/educator,F,manhattan+murder+mystery+1993,5.0
+175299,48,academic/educator,F,the+mask+of+zorro+1998,2.0
+175299,48,academic/educator,F,muriels+wedding+1994,4.0
+30240,55,clerical/admin,F,persepolis+2007,4.0
+30240,55,clerical/admin,F,about+a+boy+2002,3.64
+30240,55,clerical/admin,F,the+full+monty+1997,5.0
+30240,55,clerical/admin,F,snatch+2000,3.64
+155971,58,college/grad student,M,tucker+and+dale+vs+evil+2010,5.0
+155971,58,college/grad student,M,to+wong+foo_+thanks+for+everything+julie+newmar+1995,2.0
+135185,54,doctor/health care,F,jerry+maguire+1996,3.64
+135185,54,doctor/health care,F,shine+1996,5.0
+135185,54,doctor/health care,F,the+birdcage+1996,4.0
+135185,54,doctor/health care,F,pulp+fiction+1994,1.0
+126244,53,self-employed,F,billy+elliot+2000,4.0
+169214,43,scientist,M,schindlers+list+1993,5.0
+169214,43,scientist,M,willy+wonka++the+chocolate+factory+1971,3.64
+39537,53,other or not specified,F,sliding+doors+1998,5.0
+39537,53,other or not specified,F,e.t.+the+extra-terrestrial+1982,3.63
+39537,53,other or not specified,F,risky+business+1983,3.63
+39537,53,other or not specified,F,Unknown,3.63
+59091,53,executive/managerial,M,women+on+the+verge+of+a+nervous+breakdown+1988,4.0
+59091,53,executive/managerial,M,the+seventh+seal+1957,4.0
+59091,53,executive/managerial,M,blade+runner+1982,4.0
+59091,53,executive/managerial,M,the+straight+story+1999,5.0
+16480,50,executive/managerial,M,dr.+strangelove+or+how+i+learned+to+stop+worrying+and+love+the+bomb+1964,4.0
+16480,50,executive/managerial,M,the+terminator+1984,3.0
+181725,44,retired,F,star+trek+insurrection+1998,4.0
+181725,44,retired,F,deliverance+1972,3.0
+46865,56,doctor/health care,M,north+by+northwest+1959,3.63
+166800,42,college/grad student,F,mickey+blue+eyes+1999,3.63
+166800,42,college/grad student,F,american+beauty+1999,5.0
+44501,43,executive/managerial,M,a+view+to+a+kill+1985,3.0
+44501,43,executive/managerial,M,a+nightmare+on+elm+street+part+2+freddys+revenge+1985,4.0
+44501,43,executive/managerial,M,peter+pan+1953,3.0
+44501,43,executive/managerial,M,the+kingdom+1994,5.0
+115961,58,doctor/health care,M,life+is+beautiful+1997,5.0
+115961,58,doctor/health care,M,evita+1996,3.0
+115961,58,doctor/health care,M,the+king+of+masks+1997,5.0
+115961,58,doctor/health care,M,bullets+over+broadway+1994,3.63
+20922,55,clerical/admin,M,to+kill+a+mockingbird+1962,4.0
+20922,55,clerical/admin,M,american+graffiti+1973,5.0
+20922,55,clerical/admin,M,the+bank+dick+1940,3.63
+20922,55,clerical/admin,M,diabolique+1955,3.63
+113824,42,other or not specified,F,a+walk+in+the+clouds+1995,2.0
+113824,42,other or not specified,F,when+a+man+loves+a+woman+1994,3.63
+165762,58,executive/managerial,M,vertigo+1958,4.0
+165762,58,executive/managerial,M,the+godfather+part+ii+1974,3.63
+165762,58,executive/managerial,M,seven+samurai+1954,5.0
+178065,57,retired,F,forrest+gump+1994,4.0
+178065,57,retired,F,the+graduate+1967,4.0
+178065,57,retired,F,the+red+violin+1998,5.0
+178065,57,retired,F,never+cry+wolf+1983,3.63
+26731,42,other or not specified,M,welcome+to+the+dollhouse+1995,2.0
+26731,42,other or not specified,M,mission+to+mars+2000,2.0
+26731,42,other or not specified,M,a+streetcar+named+desire+1951,1.0
+26731,42,other or not specified,M,from+russia+with+love+1963,2.0
+99941,43,sales/marketing,M,dead+birds+2004,3.63
+69811,49,academic/educator,F,youve+got+mail+1998,4.0
+69811,49,academic/educator,F,sense+and+sensibility+1995,5.0
+69811,49,academic/educator,F,pocahontas+1995,4.0
+69811,49,academic/educator,F,the+philadelphia+story+1940,5.0
+162364,41,retired,F,dangerous+liaisons+1988,3.63
+162364,41,retired,F,rope+1948,3.63
+33934,44,executive/managerial,M,the+american+president+1995,3.63
+33934,44,executive/managerial,M,while+you+were+sleeping+1995,4.0
+201598,51,other or not specified,M,fargo+1996,4.0
+201598,51,other or not specified,M,mrs.+doubtfire+1993,3.0
+201598,51,other or not specified,M,batman+1989,3.63
+199265,51,scientist,M,cross+of+iron+1977,4.0
+199265,51,scientist,M,kagemusha+1980,4.0
+199265,51,scientist,M,the+wizard+of+oz+1939,3.0
+199265,51,scientist,M,west+side+story+1961,3.0
+209040,47,sales/marketing,M,reservoir+dogs+1992,3.63
+209040,47,sales/marketing,M,finding+neverland+2004,4.0
+209040,47,sales/marketing,M,atlas+shrugged+part+iii+who+is+john+galt+2014,3.0
+209040,47,sales/marketing,M,tucker+and+dale+vs+evil+2010,3.63
+182737,45,executive/managerial,M,titanic+1997,3.64
+182737,45,executive/managerial,M,the+lady+eve+1941,4.0
+182737,45,executive/managerial,M,20_000+leagues+under+the+sea+1954,3.64
+182737,45,executive/managerial,M,bad+day+at+black+rock+1955,4.0
+41608,55,executive/managerial,M,true+lies+1994,3.64
+194430,42,academic/educator,M,crocodile+dundee+1986,4.0
+194430,42,academic/educator,M,on+golden+pond+1981,4.0
+194430,42,academic/educator,M,the+jungle+book+1967,2.0
+194430,42,academic/educator,M,amadeus+1984,5.0
+125267,49,customer service,F,louis+theroux+law+and+disorder+in+johannesburg+2008,1.0
+125267,49,customer service,F,flipper+1996,2.0
+125267,49,customer service,F,the+400+blows+1959,4.0
+125267,49,customer service,F,mauvais+sang+1986,5.0
+193789,50,other or not specified,F,when+harry+met+sally...+1989,5.0
+206877,49,self-employed,F,dead+poets+society+1989,3.64
+206877,49,self-employed,F,joe+versus+the+volcano+1990,3.0
+206877,49,self-employed,F,the+deer+hunter+1978,3.0
+206877,49,self-employed,F,indiana+jones+and+the+temple+of+doom+1984,3.0
+63472,55,sales/marketing,M,l.a.+confidential+1997,2.0
+63472,55,sales/marketing,M,high+and+low+1963,3.0
+63472,55,sales/marketing,M,black+narcissus+1947,3.0
+63472,55,sales/marketing,M,vivre+sa+vie+1962,5.0
+24830,41,sales/marketing,M,con+air+1997,3.63
+183731,59,lawyer,F,the+secret+of+nimh+1982,3.63
+183731,59,lawyer,F,anastasia+1997,4.0
+183731,59,lawyer,F,gosford+park+2001,5.0
+183731,59,lawyer,F,cats++dogs+2001,4.0
+156595,41,academic/educator,M,maverick+1994,3.0
+156595,41,academic/educator,M,butch+cassidy+and+the+sundance+kid+1969,5.0
+156595,41,academic/educator,M,beetlejuice+1988,4.0
+156595,41,academic/educator,M,demolition+man+1993,2.0
+100913,51,academic/educator,M,creature+from+the+black+lagoon+1954,3.64
+100913,51,academic/educator,M,glory+1989,3.64
+100913,51,academic/educator,M,the+sound+of+music+1965,2.0
+100913,51,academic/educator,M,the+killing+fields+1984,4.0
+75402,43,academic/educator,F,roman+holiday+1953,5.0
+75402,43,academic/educator,F,the+philadelphia+story+1940,5.0
+188006,42,academic/educator,M,ace+ventura+when+nature+calls+1995,3.0
+188006,42,academic/educator,M,beauty+and+the+beast+1991,5.0
+188006,42,academic/educator,M,babe+1995,4.0
+188006,42,academic/educator,M,congo+1995,2.0
+4062,43,executive/managerial,M,tombstone+1993,4.0
+4062,43,executive/managerial,M,the+firm+1993,3.63
+4062,43,executive/managerial,M,pretty+woman+1990,3.63
+4062,43,executive/managerial,M,the+lion+king+1994,4.0
+192748,42,academic/educator,M,white+fang+1991,3.0
+192748,42,academic/educator,M,stuart+little+2+2002,2.0
+192748,42,academic/educator,M,the+truth+about+cats++dogs+1996,3.63
+38662,56,executive/managerial,M,from+russia+with+love+1963,3.63
+38662,56,executive/managerial,M,strictly+ballroom+1992,5.0
+136593,42,homemaker,M,the+lord+of+the+rings+the+two+towers+2002,3.64
+136593,42,homemaker,M,the+aviator+2004,3.64
+136593,42,homemaker,M,blue+velvet+1986,4.0
+136593,42,homemaker,M,three+colors+blue+1993,4.0
+167464,43,tradesman/craftsman,M,scream+1996,3.64
+167464,43,tradesman/craftsman,M,shrek+2001,2.0
+167464,43,tradesman/craftsman,M,city+slickers+ii+the+legend+of+curlys+gold+1994,1.0
+167464,43,tradesman/craftsman,M,big+1988,3.0
+26682,59,executive/managerial,M,moll+flanders+1996,3.0
+26682,59,executive/managerial,M,the+fugitive+1993,3.0
+26682,59,executive/managerial,M,lassie+1994,3.0
+26682,59,executive/managerial,M,the+secret+garden+1993,2.0
+195242,55,clerical/admin,F,monsoon+wedding+2001,5.0
+195242,55,clerical/admin,F,the+talented+mr.+ripley+1999,3.63
+150781,53,college/grad student,F,magnolia+1999,3.63
+150781,53,college/grad student,F,at+first+sight+1999,2.0
+150781,53,college/grad student,F,taxi+driver+1976,3.63
+150781,53,college/grad student,F,chasing+amy+1997,3.63
+188343,41,sales/marketing,M,dances+with+wolves+1990,4.0
+188343,41,sales/marketing,M,planet+terror+2007,5.0
+188343,41,sales/marketing,M,avatar+2009,5.0
+188343,41,sales/marketing,M,winters+bone+2010,3.63
+208199,56,academic/educator,F,mr.+smith+goes+to+washington+1939,4.0
+208199,56,academic/educator,F,it+happened+one+night+1934,3.63
+208199,56,academic/educator,F,the+postman+1994,3.63
+208199,56,academic/educator,F,the+godfather+part+iii+1990,1.0
+208408,46,academic/educator,M,lord+of+the+flies+1963,3.0
+208408,46,academic/educator,M,changing+lanes+2002,3.0
+74961,52,other or not specified,F,mrs+brown+1997,4.0
+74961,52,other or not specified,F,the+little+mermaid+1989,5.0
+74961,52,other or not specified,F,the+crying+game+1992,3.63
+74961,52,other or not specified,F,gattaca+1997,3.63
+146321,42,writer,M,the+legend+of+drunken+master+1994,5.0
+146321,42,writer,M,the+lion+king+1994,2.0
+146321,42,writer,M,seven+samurai+1954,5.0
+107942,41,executive/managerial,F,french+kiss+1995,4.0
+107942,41,executive/managerial,F,four+weddings+and+a+funeral+1994,4.0
+107942,41,executive/managerial,F,forrest+gump+1994,4.0
+107942,41,executive/managerial,F,just+cause+1995,4.0
+56208,52,executive/managerial,M,the+fly+1986,3.0
+56208,52,executive/managerial,M,full+metal+jacket+1987,3.63
+144981,55,executive/managerial,M,the+purple+rose+of+cairo+1985,3.63
+60562,44,artist,F,the+importance+of+being+earnest+2002,3.63
+60562,44,artist,F,arsenic+and+old+lace+1944,3.63
+60562,44,artist,F,buffy+the+vampire+slayer+1992,3.63
+60562,44,artist,F,gypsy+1962,3.0

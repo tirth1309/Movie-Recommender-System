@@ -1,0 +1,21 @@
+<!-- dashboard.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>Server Dashboard</h2>
+        <div class="mt-3">
+            <p><strong>200 Responses:</strong> {{ metrics['200_responses'] }}</p>
+            <p><strong>Non-200 Responses:</strong> {{ metrics['non_200_responses'] }}</p>
+            <p><strong>Average Response Time:</strong> {{ metrics['average_response_time']|round(2) }} ms</p>
+            <p><strong>Slowest Response Time:</strong> {{ metrics['slowest_response_time']|round(2) }} ms</p>
+        </div>
+    </div>
+</body>
+</html>

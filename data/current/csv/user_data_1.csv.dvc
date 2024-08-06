@@ -1,0 +1,6 @@
+outs:
+- md5: bcc7dabe2fe0a279f0bfd9d96059dbb0
+  size: 18278866
+  isexec: true
+  hash: md5
+  path: user_data_1.csv
