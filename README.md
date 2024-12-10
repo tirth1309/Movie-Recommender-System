@@ -1,5 +1,7 @@
 Team 5 - Westworld
 
+Make sure to follow readme properly
+
 pip install -r requirements.txt
 
 Data Generation
@@ -31,3 +33,4 @@ Flask API Run
 python server.py
 
 Note: Make sure to check the file names and file paths and update them if required or generating data at new location
+
